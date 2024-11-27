@@ -57,8 +57,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:david.hodgson@lshtm.ac.uk'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
+- icon: bluesky
+  icon_pack: bs
   link: https://bsky.app/profile/dchodge.bsky.social
 - icon: google-scholar
   icon_pack: ai

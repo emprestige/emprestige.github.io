@@ -4,9 +4,9 @@
   "description": " for Hugo",
   "main": "index.js",
   "dependencies": {
-    "bootstrap": "^4.3.1"
+    "bootstrap": "^4.3.1",
+    "bootstrap-icons": "^1.11.3"
   },
-  "devDependencies": {},
   "scripts": {
     "dev": "hugo server",
     "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
