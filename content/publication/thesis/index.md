@@ -1,42 +1,35 @@
 ---
-title: "Memory B cell proliferation drives differences in neutralising responses between ChAdOx1 and BNT162b2 SARS-CoV-2 vaccines"
+title: "What effect do government policies have on the transmission of COVID-19?"
 authors:
-  - David Hodgson
-  - Yi Liu
-  - Louise Carolan
-  - Siddhartha Mahanty
-  - Kanta Subbarao
-  - Sheena G. Sullivan
-  - Annette Fox
-  - Adam Kucharski
-date: "2024-07-11T00:00:00Z"
-doi: "https://doi.org/10.1101/2024.07.11.24310221"
+  - Em Prestig
+date: "2021-12-24T00:00:00Z"
+doi: "https://doi.org/10.24382/ry09-an34"
 publishDate: "2024-07-11T00:00:00Z"
-publication_types: ["3"]
-publication: "Preprint"
-publication_short: "Preprint"
+publication_types: ["7"]
+publication: "The Plymouth Student Scientist"
+# publication_short: "Preprint"
 abstract: |
-  Vaccination against COVID-19 has been pivotal in reducing the global burden of the disease. However, Phase III trial results and observational studies underscore differences in efficacy across vaccine technologies and dosing regimens. Notably, mRNA vaccines have exhibited superior effectiveness compared to Adenovirus (AdV) vaccines, especially with extended dosing intervals. Using in-host mechanistic modelling, this study elucidates these variations and unravels the biological mechanisms shaping the immune responses at the cellular level. We used data on the change in memory B cells, plasmablasts, and antibody titres after the second dose of a COVID-19 vaccine for Australian healthcare workers. Alongside this dataset, we constructed a kinetic model of humoral immunity which jointly captured the dynamics of multiple immune markers, and integrated hierarchical effects into this kinetics model, including age, dosing schedule, and vaccine type. Our analysis estimated that mRNA vaccines induced 2.1 times higher memory B cell proliferation than AdV vaccines after adjusting for age, interval between doses, and priming dose. Additionally, extending the duration between the second vaccine dose and priming dose beyond 28 days boosted neutralising antibody production per plasmablast concentration by 30%. We also found that antibody responses after the second dose were more persistent when mRNA vaccines were used over AdV vaccines and for longer dosing regimens. Reconstructing in-host kinetics in response to vaccination could help optimise vaccine dosing regimens, improve vaccine efficacy in different population groups, and inform the design of future vaccines for enhanced protection against emerging pathogens.
-summary: |
-  This study compares immune responses between ChAdOx1 (Adenovirus-based) and BNT162b2 (mRNA) COVID-19 vaccines. It finds that mRNA vaccines induce significantly higher memory B cell proliferation and longer-lasting antibody responses than Adenovirus vaccines, especially with extended dosing intervals. 
-tags:
-  - SARS-CoV-2
-  - COVID-19 Vaccination
-  - mRNA Vaccine
-  - Adenovirus Vaccine
-  - Immunology
-featured: true
+  This investigation aimed to determine the effect of government policies on the transmission of COVID-19 during the period 30/01/2020 – 03/01/2021. This investigation used qualitative data from policy legislation and journals and quantitative data from official government pandemic figures. It also used central factors of successful government approaches to assess the efficacy of the UK Government strategy. The measure used to monitor transmission rates is the instantaneous reproduction number Rt. I have used summary statistics, data visualisation, and time series representations to conduct exploratory data analyses. I also investigated the change in testing capacity and positivity rate over time to account for factors impacting the number of individuals testing positive for COVID-19. To estimate Rt, I used a deterministic Susceptible-Infected-Removed model and a stochastic epidemic model. I then used time series models to predict the positivity rate, transmission rate, and the number of new cases for the following week. From estimating Rt, we see that the rate of transmission fell during national lockdowns. Predictions showed that the positivity rate, transmission rate, and the number of new cases would increase if conditions had remained the same, i.e. if the government had not implemented additional mitigation strategies. Lastly, I compared the approaches taken in the UK with those in New Zealand and Brazil. From this, I was able to identify the possible influence of government policies on transmission. This investigation found that when governments communicated policies clearly, they had a more notable effect on reducing Rt. Furthermore, I have identified several areas in which the government could have improved to increase the effectiveness of policies on reducing transmission rates.
+# summary: |
+
+# tags:
+ #  - SARS-CoV-2
+ #  - COVID-19 Vaccination
+ #  - mRNA Vaccine
+ #  - Adenovirus Vaccine
+ #  - Immunology
+# featured: true
 links:
   - name: "Full Text"
-    url: "https://doi.org/10.1101/2024.07.11.24310221"
-url_code: 'https://github.com/cmmid/covidbcell'
+    url: "https://doi.org/10.24382/ry09-an34"
+# url_code: 'https://github.com/cmmid/covidbcell'
 
-image:
-  caption: 'Image credit: [**Biorender**](https:/biorender.com)'
-  focal_point: "left"
-  preview_only: false
-projects:
- - sero
-slides: ""
+# image:
+#   caption: 'Image credit: [**Biorender**](https:/biorender.com)'
+#   focal_point: "left"
+#   preview_only: false
+# projects:
+#  - sero
+# slides: ""
 
 ---

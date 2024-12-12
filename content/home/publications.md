@@ -9,7 +9,7 @@ weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
 subtitle = """
-Click for my [publications](https://scholar.google.ca/citations?user=d74gCRYAAAAJ&hl=en) and [research outputs](https://www.researchgate.net/profile/David-Hodgson-19)
+Click for my [publications](https://scholar.google.com/citations?user=SUM6s2YAAAAJ&hl=en) and [research outputs](https://profiles.lshtm.ac.uk/4911-em-prestige/about)
 """
 
 [content]

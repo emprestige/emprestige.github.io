@@ -19,20 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Fellow"
-  company = "London School of Hygiene and Tropical Medicine"
+  company = "London School of Hygiene & Tropical Medicine"
   company_url = ""
   location = "London"
-  date_start = "2020-09-01"
+  date_start = "2023-10-01"
   date_end = ""
   description = ""
 
 [[experience]]
-  title = "Senior Mathematical Modeller"
-  company = "Public Health England"
+  title = "Research Assistant"
+  company = "London School of Hygiene & Tropical Medicine"
   company_url = ""
   location = "London"
-  date_start = "2020-03-01"
-  date_end = "2019-06-01"
+  date_start = "2021-09-01"
+  date_end = "2023-09-15"
   description = ""
   
 +++

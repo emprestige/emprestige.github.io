@@ -1,15 +1,15 @@
 ---
-title: "Effect of mass paediatric influenza vaccination on existing influenza vaccination programmes in England and Wales: a modelling and cost-effectiveness analysis"
+title: "Estimating social contact rates for the COVID-19 pandemic using Google mobility and pre-pandemic contact surveys"
 authors:
-- David Hodgson
-- Marc Baguelin
-- Edwin van Leeuwen
-- Jasmina Panovska-Griffiths
-- Mary Ramsay
-- Richard Pebody
-- Katherine E. Atkins
-date: "2017-02-01T00:00:00Z"
-doi: "10.1016/S2468-2667(16)30044-5"
+- Em Prestige
+- Peitro Coletti
+- Jantien Backer
+- Nicholas G Davies
+- W. John Edmunds
+- Christopher I. Jarvis
+
+# date: "tbc"
+# doi: "pre-print"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-03-01T00:00:00Z"
@@ -18,43 +18,37 @@ publishDate: "2017-03-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The Lancet Public Health*
-publication_short: In *Lancet Public Health*
+# publication: In *The Lancet Public Health*
+# publication_short: In *Lancet Public Health*
 
 abstract: |
-  Background: In 2013 England and Wales began to fund a live attenuated influenza vaccine programme for individuals aged 2-16 years. Mathematical modelling predicts substantial beneficial herd effects for the entire population as a result of reduced influenza transmission. With a decreased influenza-associated disease burden, existing immunisation programmes might be less cost-effective. The aim of this study was to assess the epidemiological effect and cost-effectiveness of the existing elderly and risk group vaccination programme under the new policy of mass paediatric vaccination in England.
+  During the COVID-19 pandemic, aggregated mobility data was frequently used to estimate changing social contact rates. By taking pre-pandemic contact matrices, and transforming these using pandemic-era mobility data, infectious disease modellers attempted to predict the effect of large-scale behavioural changes on contact rates. This study explores the most accurate method for this transformation, using pandemic-era contact surveys as ground truth. We compared four methods for scaling synthetic contact matrices: two using fitted regression models and two using “naïve” mobility or mobility squared models. The regression models were fitted using the CoMix contact survey and Google mobility data from the UK over March 2020 – March 2021. The four models were then used to scale synthetic contact matrices—a representation of pre-pandemic behaviour—using mobility data from the UK, Belgium and the Netherlands to predict the number of contacts expected in “work” and “other” settings for a given mobility level. We then compared partial reproduction numbers estimated from the four models with those calculated directly from CoMix contact matrices across the three countries. The accuracy of each model was assessed using root mean squared error. The fitted regression models had substantially more accurate predictions than the naïve models, even when models were applied to out-of-sample data from the UK, Belgium and the Netherlands. Across all countries investigated, the linear fitted regression model was the most accurate and the naïve model using mobility alone was the least accurate. When attempting to estimate social contact rates during a pandemic without the resources available to conduct contact surveys, using a model fitted to data from another pandemic context is likely to be an improvement over using a “naïve” model based on mobility data alone. If a naïve model is to be used, mobility squared may be a better predictor of contact rates than mobility per se.
 
-  Methods: For this cost-effectiveness analysis, we used a transmission model of seasonal influenza calibrated to 14 seasons of weekly consultation and virology data in England and Wales. We combined this model with an economic evaluation to calculate the incremental cost-effectiveness ratios, measured in cost per quality-adjusted life-years (QALY) gained.
-
-  Findings: Our results suggest that well-timed administration of paediatric vaccination would reduce the number of low-risk elderly influenza cases to a greater extent than would vaccination of the low-risk elderly themselves if the elderly uptake is achieved more slowly. Although high-risk vaccination remains cost-effective, substantial uncertainty exists as to whether low-risk elderly vaccination remains cost-effective, driven by the choice of cost-effectiveness threshold. Under base case assumptions and a cost-effectiveness threshold of £15,000 per QALY, the low-risk elderly seasonal vaccination programme will cease to be cost-effective with a mean incremental cost-effectiveness ratio of £22,000 per QALY and a probability of cost-effectiveness of 20%. However, under a £30,000 per QALY threshold, the programme will remain cost-effective with 83% probability.
-
-  Interpretation: With the likely move to decreased cost-effectiveness thresholds, reassessment of existing risk group-based vaccine programme cost-effectiveness in the presence of the paediatric vaccination programme is needed.
-
-  Funding: National Institute for Health Research, the Medical Research Council.
+  Funding: National Institute for Health and Care Research
 
 # Summary. An optional shortened abstract.
-summary: This study evaluates the epidemiological and cost-effectiveness impacts of mass paediatric influenza vaccination on existing elderly and risk-group programmes in England and Wales.
+summary: This study compares the predictive ability of Google mobility data to pandemic-era contacts surveys
 
 tags:
-- Influenza
-- Vaccination
-- Cost-effectiveness
+- COVID-19 pandemic
+- Social mobility data
+- Social contact rates
 - Modelling
-- Public Health
-featured: false
+- Prediction methods
+featured: true
 
 links:
-- name: DOI
-  url: "https://doi.org/10.1016/S2468-2667(16)30044-5"
-url_pdf: "https://doi.org/10.1016/S2468-2667(16)30044-5"
+- name: Pre-Print
+  url: "https://www.medrxiv.org/content/10.1101/2023.12.19.23300209v3"
+url_code: "https://github.com/cmmid/comix_mobility"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Biorender**](https:/biorender.com)'
+  caption: "none"
   focal_point: "none"
   preview_only: false
 
@@ -63,8 +57,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
- - cea_flu
+# projects:
+#  - comix
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -73,6 +67,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-Sadly no code for this, lost it long ago....
-

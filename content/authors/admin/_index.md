@@ -1,7 +1,7 @@
 ---
 # Display name
-name: David Hodgson
-avatar_image: "user-full.png"
+name: Em Prestige
+avatar_image: "user-full.jpg"
 # Username (this should match the folder name)
 authors:
 - admin
@@ -14,40 +14,37 @@ btn:
 superuser: true
 
 # Role/position
-role: Research Fellow in infectious disease modelling
+role: PhD Candidate and Research Fellow in infectious disease modelling & dynamics
 
 # Organizations/Affiliations
 organizations:
 - name: London School of Hygiene and Tropical Medicine
-  url: "https://www.lshtm.ac.uk/aboutus/people/hodgson.david"
+  url: "https://www.lshtm.ac.uk/aboutus/people/prestige.em"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Fellow at London School of Hygiene and Tropical Medicine
+bio: PhD Candidate and Research Fellow at London School of Hygiene and Tropical Medicine
 
 # Should the user's education and interests be displayed?
 display_education: true
 
 interests:
 - Respiratory Infections
-- Mathematical Immunology
-- Bayesian Inference
-- Cost-effectiveness
-- Open-source software
+- Health Inequalities
+- Electronic Health Records
+- Vaccine Uptake
+- Open-Science
 
 education:
   courses:
-  - course: PhD in Mathematics
-    institution: University College London
-    year: 2020
-  - course: MRes in Modelling Biological Complexity
-    institution: University College London
-    year: 2015
-  - course: MSci in Biophysical Sciences
-    institution: Durham Univeristy
-    year: 2014
-  - course: BSc
-    institution: University College London
-    year: 2013
+  - course: PhD in Epidemiology and Population Health
+    institution: London School of Hygiene & Tropical Medicine
+    year: current
+  - course: MSc in Medical Statistics
+    institution: London School of Hygiene & Tropical Medicine
+    year: 2022
+  - course: BSc Mathematics and Statistics
+    institution: University of Plymouth
+    year: 2021
 
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,21 +53,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:david.hodgson@lshtm.ac.uk'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:em.prestige@lshtm.ac.uk'  # For a direct email link, use "mailto:test@example.org".
 - icon: bluesky
   icon_pack: bs
-  link: https://bsky.app/profile/dchodge.bsky.social
+  link: https://bsky.app/profile/emprestige.bsky.social
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.ca/citations?user=d74gCRYAAAAJ&hl=en
+  link: https://scholar.google.ca/citations?user=SUM6s2YAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/dchodge
+  link: https://github.com/emprestige
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/david_hodgson_cv_online.pdf
+  link: files/em_prestige_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -82,4 +79,4 @@ user_groups:
 - Visitors
 ---
 
-Hi there 👋! I'm a researcher who uses mathematical and statistics to better understand immune responses to infection and vaccination. I work in the [Center of Mathematical modelling of infectious disease](https://www.lshtm.ac.uk/research/centres/centre-mathematical-modelling-infectious-diseases) (or CMMID).
+Hello! I'm Em (they/them), I am a PhD student in the [Centre for Mathematical Modelling of Infectious Diseases] (https://www.lshtm.ac.uk/research/centres/centre-mathematical-modelling-infectious-diseases) - CMMID - working with [OpenSAFELY](https://www.opensafely.org/) to uncover disparities in respiratory viruses and vaccine uptake.
