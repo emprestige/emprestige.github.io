@@ -1,5 +1,5 @@
 ---
-title: "Post-vaccine HAI antibody kinetics are driven by pre-vaccination HAI titre and vaccine history"
+title: "Covid Lockdowns in the UK: Estimating Their Effects on Transmission"
 authors:
   - Em Prestige
   - Julian Stander
