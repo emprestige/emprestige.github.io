@@ -23,15 +23,15 @@ subtitle = "Things I'm working on"
   
   [[content.filter_button]]
     name = "Electronic Health Records"
-    tag = "ehr"
+    tag = "Electronic Health Records"
   
   [[content.filter_button]]
     name = "Contact Tracing"
-    tag = "mob"
+    tag = "Social Mobility Data"
   
   [[content.filter_button]]
     name = "Other"
-    tag = "other"
+    tag = "Other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

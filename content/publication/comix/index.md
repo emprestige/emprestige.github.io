@@ -30,14 +30,15 @@ abstract: |
   Funding: National Institute for Health and Care Research
 
 # Summary. An optional shortened abstract.
-summary: This study compares the predictive ability of Google mobility data to pandemic-era contacts surveys
+summary: 
+  This study compares the predictive ability of Google mobility data to pandemic-era contacts surveys
 
 tags:
-- COVID-19 pandemic
-- Social mobility data
-- Social contact rates
+- COVID-19
+- Social Mobility Data
+- Social Contact Rates
 - Modelling
-- Prediction methods
+- Prediction Methods
 featured: true
 
 links:
@@ -47,9 +48,9 @@ url_code: "https://github.com/cmmid/comix_mobility"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: "Figure 4 from the publication"
-  focal_point: Smart
+#image:
+#  caption: "Figure 4 from the publication"
+#  focal_point: Smart
 #  preview_only: true
 
 # Associated Projects (optional).

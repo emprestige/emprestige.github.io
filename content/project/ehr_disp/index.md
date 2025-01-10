@@ -2,7 +2,9 @@
 title: Health Inequalities
 summary: Using electronic health records to uncover disparities in health outcomes
 tags:
-- ehr
+- Electronic Health Records
+- Health Inequalities
+- Risk-groups
 date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

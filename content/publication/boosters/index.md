@@ -43,7 +43,8 @@ abstract: |
   Conclusion This observational study comparing effectiveness of Pfizer BA.4-5 and Sanofi vaccine during the spring 2023 programme in England in the two main eligible cohorts – people aged 75 and over and in clinically vulnerable people – found some evidence of superior effectiveness against COVID-19 hospital admission for Pfizer BA.4-5 compared with Sanofi within 16 weeks after vaccination.
 
 # Summary. An optional shortened abstract.
-summary: This study used observational data from the OpenSAFELY-TPP database to compare the effectiveness and safety of Pfizer BA.4-5 and Sanofi COVID-19 vaccines during England’s spring 2023 booster programme among people aged 75+ and clinically vulnerable individuals.
+summary: 
+  This study used observational data from the OpenSAFELY-TPP database to compare the effectiveness and safety of Pfizer BA.4-5 and Sanofi COVID-19 vaccines during England’s spring 2023 booster programme among people aged 75+ and clinically vulnerable individuals.
 
 tags:
 - COVID-19
@@ -60,9 +61,9 @@ url_code: 'https://github.com/opensafely/comparative-booster-spring2023'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: Figure 3 from the publication
-  focal_point: Smart
+#image:
+#  caption: Figure 3 from the publication
+#  focal_point: Smart
 #  preview_only: true
 
 # Associated Projects (optional).
