@@ -1,7 +1,7 @@
 ---
 title: "What effect do government policies have on the transmission of COVID-19?"
 authors:
-  - Em Prestig
+  - Em Prestige
 date: "2021-12-24T00:00:00Z"
 doi: "https://doi.org/10.24382/ry09-an34"
 publishDate: "2024-07-11T00:00:00Z"
