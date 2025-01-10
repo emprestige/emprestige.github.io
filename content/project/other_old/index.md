@@ -3,6 +3,7 @@ title: Other Previous Work
 summary: Work completed in the early stages of my career
 tags:
 - COVID-19
+- Other
 date: "2017-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -1,7 +1,8 @@
 ---
 title: Other Recent Work
 summary: Work completed recently
-#tags:
+tags:
+- Other
 date: "2017-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

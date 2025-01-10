@@ -1,6 +1,6 @@
 ---
 title: Mobility Data
-summary: Using publically available mobility data to predict contacts
+summary: Using publicly available mobility data to predict contacts
 tags:
 - COVID-19
 - Social Mobility Data
