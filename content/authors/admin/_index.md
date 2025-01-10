@@ -18,7 +18,7 @@ role: PhD Candidate and Research Fellow in infectious disease modelling & dynami
 
 # Organizations/Affiliations
 organizations:
-- name: London School of Hygiene and Tropical Medicine
+- name: London School of Hygiene & Tropical Medicine
   url: "https://www.lshtm.ac.uk/aboutus/people/prestige.em"
 
 # Short bio (displayed in user profile at end of posts)

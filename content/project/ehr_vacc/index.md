@@ -1,16 +1,16 @@
 ---
-title: Influenza programmes
-summary: Modelling and cost-effectiveness of influenza programmes for older adults.
+title: Vaccine Modelling
+summary: Using routinely collected data to model vaccine uptake and effectiveness
 tags:
-- cea
+- ehr
 date: "2017-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: 
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Photo by Getty Images on Unsplash
   focal_point: Smart
 ---
 
-One of my first papers was modelling the change in the cost-effectiveness of the influenza vaccination programme in older adults after the introduction of the infant and schoolage programme.
+One of my current pre-prints I have worked on uses Electronic Health Records (EHRs) to perform vaccine-effectiveness studies. I am also currently working on modelling maternal immunisation uptake across England using EHR data.
