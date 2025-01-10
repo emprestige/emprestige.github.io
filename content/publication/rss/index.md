@@ -26,10 +26,10 @@ links:
     url: "https://doi.org/10.1111/1740-9713.01628"
 # url_code: 'https://github.com/cmmid/ab_boosting_published'
 
-image:
-  caption: Figure 2 from the publication
-  focal_point: Smart
-  preview_only: true
+#image:
+#  caption: Figure 2 from the publication
+#  focal_point: Smart
+#  preview_only: true
 projects:
  - other_old
 # slides: ""
