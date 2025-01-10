@@ -2,7 +2,7 @@
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
 
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
@@ -38,7 +38,7 @@ Click for my [publications](https://scholar.google.com/citations?user=SUM6s2YAAA
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
