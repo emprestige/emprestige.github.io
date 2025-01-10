@@ -9,7 +9,7 @@ date: "2020-04-27T00:00:00Z"
 external_link: 
 
 image:
-  caption: Photo by Getty Images on Unsplash
+  caption: Photo by Shweta War on Flikr
   focal_point: Smart
 ---
 
