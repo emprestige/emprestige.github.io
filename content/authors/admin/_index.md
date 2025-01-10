@@ -55,7 +55,7 @@ social:
   icon_pack: fas
   link: 'mailto:em.prestige@lshtm.ac.uk'  # For a direct email link, use "mailto:test@example.org".
 - icon: bluesky
-  icon_pack: bs
+  icon_pack: ai
   link: https://bsky.app/profile/emprestige.bsky.social
 - icon: google-scholar
   icon_pack: ai
@@ -79,4 +79,4 @@ user_groups:
 - Visitors
 ---
 
-Hello! I'm Em (they/them), I am a PhD student in the [Centre for Mathematical Modelling of Infectious Diseases] (https://www.lshtm.ac.uk/research/centres/centre-mathematical-modelling-infectious-diseases) - CMMID - working with [OpenSAFELY](https://www.opensafely.org/) to uncover disparities in respiratory viruses and vaccine uptake.
+Hello! I'm Em (they/them), I am a PhD student in the [Centre for Mathematical Modelling of Infectious Diseases](https://www.lshtm.ac.uk/research/centres/centre-mathematical-modelling-infectious-diseases) - CMMID - working with [OpenSAFELY](https://www.opensafely.org/) to uncover disparities in respiratory viruses and vaccine uptake.
