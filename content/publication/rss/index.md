@@ -25,9 +25,8 @@ links:
 # url_code: 'https://github.com/cmmid/ab_boosting_published'
 
 image:
-  caption: ''
-  focal_point: ""
-  preview_only: false
+  caption: Figure 2 from the publication
+  focal_point: Smart
 # projects:
 #  - sero
 # slides: ""

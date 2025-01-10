@@ -60,8 +60,8 @@ url_code: 'https://github.com/opensafely/comparative-booster-spring2023'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
-  focal_point: "none"
+  caption: Figure 3 from the publication
+  focal_point: Smart
   preview_only: false
 
 # Associated Projects (optional).
@@ -69,8 +69,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
-#  - cea_rsv
+projects:
+ - ehr_vacc
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

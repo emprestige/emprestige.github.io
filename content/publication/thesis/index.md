@@ -24,9 +24,9 @@ links:
     url: "https://doi.org/10.24382/ry09-an34"
 # url_code: 'https://github.com/cmmid/covidbcell'
 
-# image:
-#   caption: 'Image credit: [**Biorender**](https:/biorender.com)'
-#   focal_point: "left"
+image:
+  caption: 'Figure 14 from the publication'
+  focal_point: Smart
 #   preview_only: false
 # projects:
 #  - sero

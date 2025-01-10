@@ -48,8 +48,8 @@ url_code: "https://github.com/cmmid/comix_mobility"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "none"
-  focal_point: "none"
+  caption: "Figure 4 from the publication"
+  focal_point: Smart
   preview_only: false
 
 # Associated Projects (optional).
@@ -57,8 +57,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
-#  - comix
+projects:
+ - mob
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
