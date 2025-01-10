@@ -18,7 +18,7 @@ tags:
   - Royal Statistical Society
   - Feature Article
 
-featured: true
+featured: false
 links:
   - name: "Full Text"
     url: "https://doi.org/10.1111/1740-9713.01628"

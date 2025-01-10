@@ -8,10 +8,10 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 30
+#[[main]]
+#  name = "Publications"
+#  url = "publications/"
+#  weight = 30
 
 [[main]]
   name = "Projects"
@@ -28,20 +28,21 @@
   url = "#contact"
   weight = 60
 
-#[[main]]
-#  name = "dropdown"
-#  url = "#"
-#  hasChildren = true
+[[main]]
+  name = "Publications"
+  url = "#"
+  hasChildren = true
+  weight = 30
 
-#[[main]]
-#  parent = "dropdown"
-#  name = "dropdown 1"
-#  url = "#"
+[[main]]
+  parent = "Publications"
+  name = "Featured Publications"
+  url = "#featured"
 
-#[[main]]
-#  parent = "dropdown"
-#  name = "dropdown 2"
-#  url = "#!"
+[[main]]
+  parent = "Publications"
+  name = "Recent Publications"
+  url = "publications/"
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
