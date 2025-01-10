@@ -1,5 +1,5 @@
 ---
-title: Other Previous Work
+title: Previous Work
 summary: Work completed in the early stages of my career
 tags:
 - COVID-19

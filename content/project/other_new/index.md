@@ -1,5 +1,5 @@
 ---
-title: Other Recent Work
+title: Recent Work
 summary: Work completed recently
 tags:
 - Other
