@@ -2,11 +2,11 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = true # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "Things I'm working"
+subtitle = "Things I'm workingon"
 
 [content]
   # Page type to display. E.g. project.
@@ -22,16 +22,12 @@ subtitle = "Things I'm working"
   filter_default = 0
   
   [[content.filter_button]]
-    name = "Cost-effectiveness"
-    tag = "cea"
+    name = "Electronic Health Records"
+    tag = "ehr"
   
   [[content.filter_button]]
-    name = "Serological analysis"
-    tag = "sero"
-  
-  [[content.filter_button]]
-    name = "Bayesian Inference"
-    tag = "bayes"
+    name = "Contact Tracing"
+    tag = "mob"
   
   [[content.filter_button]]
     name = "Other"

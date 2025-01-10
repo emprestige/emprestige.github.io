@@ -25,15 +25,15 @@ image:
   caption: 'Myself and co-lead Chris Wood after the workshop'
   focal_point: Right
 
-links:
+#links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
