@@ -1,5 +1,5 @@
 ---
-title: Health Inequalitiies
+title: Health Inequalities
 summary: Using electronic health records to uncover disparities in health outcomes
 tags:
 - ehr

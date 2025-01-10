@@ -27,7 +27,7 @@ links:
 image:
   caption: Figure 2 from the publication
   focal_point: Smart
-# projects:
-#  - sero
+projects:
+ - other
 # slides: ""
 ---

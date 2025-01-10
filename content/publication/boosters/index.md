@@ -50,6 +50,7 @@ tags:
 - Comparitive effectiveness
 - Vaccination
 - Risk-groups
+- Electronic Health Records
 featured: true
 
 links:

@@ -8,7 +8,7 @@ abstract: "In this session, we introduced the newly launched Centre for Data and
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-10-08T13:00:00Z"
+date: "2024-10-08"
 #date_end: "2030-06-01T15:00:00Z"
 #all_day: false
 
@@ -48,7 +48,7 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-# - internal-project
+ - other
 
 # Enable math on this page?
 math: true

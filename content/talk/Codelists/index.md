@@ -8,7 +8,7 @@ abstract: "In groups researchers worked to construct a codelist following a fram
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-11-26T13:00:00Z"
+date: "2024-11-26"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
@@ -48,7 +48,7 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-# - internal-project
+ - ehr
 
 # Enable math on this page?
 math: true

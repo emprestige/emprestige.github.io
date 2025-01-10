@@ -28,8 +28,8 @@ image:
   caption: 'Figure 14 from the publication'
   focal_point: Smart
 #   preview_only: false
-# projects:
-#  - sero
+projects:
+  - other
 # slides: ""
 
 ---
