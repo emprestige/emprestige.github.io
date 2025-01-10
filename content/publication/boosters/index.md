@@ -63,7 +63,7 @@ url_code: 'https://github.com/opensafely/comparative-booster-spring2023'
 image:
   caption: Figure 3 from the publication
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

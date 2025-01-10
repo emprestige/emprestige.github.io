@@ -27,7 +27,7 @@ links:
 image:
   caption: 'Figure 14 from the publication'
   focal_point: Smart
-#   preview_only: false
+  preview_only: true
 projects:
   - other
 # slides: ""

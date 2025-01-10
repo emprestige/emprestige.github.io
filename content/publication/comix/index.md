@@ -50,7 +50,7 @@ url_code: "https://github.com/cmmid/comix_mobility"
 image:
   caption: "Figure 4 from the publication"
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
