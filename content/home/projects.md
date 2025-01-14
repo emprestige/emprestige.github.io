@@ -6,7 +6,7 @@ active = true # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "Current and previous projects"
+subtitle = "My current and previous projects"
 
 [content]
   # Page type to display. E.g. project.
