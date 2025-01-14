@@ -7,10 +7,19 @@ type: landing
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 2
+#view: 2
 
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+# Page sections
+sections:
+  - block: collection
+    content:
+      title: Selected Projects
+      text: My current and previous projects
+      filters:
+        folders:
+          - project
+    design:
+      view: 3
+      fill_image: false
+      columns: 3
 ---
