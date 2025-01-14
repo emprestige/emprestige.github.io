@@ -17,8 +17,8 @@ authors:
 - the OpenSAFELY collaborative
 - William J. Hulme
 
-date: "2025"
-doi: "pre-print"
+date: "2024-03-15T00:00:00Z"
+#doi: "pre-print"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-12-01T00:00:00Z"
