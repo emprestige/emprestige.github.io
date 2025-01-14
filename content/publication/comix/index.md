@@ -8,7 +8,7 @@ authors:
 - W. John Edmunds
 - Christopher I. Jarvis
 
-date: "tbc"
+date: "2025"
 doi: "pre-print"
 
 # Schedule page publish date (NOT publication's date).
