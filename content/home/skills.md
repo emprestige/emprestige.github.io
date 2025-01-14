@@ -16,9 +16,9 @@ subtitle = "Technical skills I hold"
 
 [[feature]]
   icon = "code-bracket"
-  icon_pack = "fas"
+  icon_pack = "ai"
   name = "Python"
-  parcent = "90%"
+  parcent = "75%"
   
 [[feature]]
   icon = "chart-bar"
@@ -28,14 +28,14 @@ subtitle = "Technical skills I hold"
   
 [[feature]]
   icon = "circle-stack"
-  icon_pack = "fas"
+  icon_pack = "ai"
   name = "ehrQL"
   parcent = "70%"
   
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Stan"
-  parcent = "95%"
+  parcent = "25%"
 
 +++
