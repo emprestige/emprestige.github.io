@@ -6,7 +6,7 @@ active = true # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "Things I'm working on"
+subtitle = "Current and previous projects"
 
 [content]
   # Page type to display. E.g. project.
@@ -41,7 +41,7 @@ subtitle = "Things I'm working on"
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
