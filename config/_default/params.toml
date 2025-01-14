@@ -61,7 +61,7 @@ address = "Room 105b, Keppel Street, London, UK, WC1E 7HT"
 office_hours = "9am-5pm"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
+#appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
