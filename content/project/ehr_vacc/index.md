@@ -1,10 +1,10 @@
 ---
 title: Vaccine Modelling
 summary: Using routinely collected data to model vaccine uptake and effectiveness
-tags:
-- Comparitive effectiveness
-- Vaccination
-- Electronic Health Records
+#tags:
+#- Comparitive effectiveness
+#- Vaccination
+#- Electronic Health Records
 date: "2017-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
