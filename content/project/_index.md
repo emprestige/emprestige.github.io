@@ -1,5 +1,6 @@
 ---
 title: Projects
+type: landing
 
 # View.
 #   1 = List

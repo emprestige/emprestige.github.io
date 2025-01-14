@@ -1,9 +1,9 @@
 ---
 title: Mobility Data
 summary: Using publicly available mobility data to predict contacts
-#tags:
+tags:
 #- COVID-19
-#- Social Mobility Data
+- Social Mobility Data
 #- Social Contact Rates
 date: "2020-04-27T00:00:00Z"
 
