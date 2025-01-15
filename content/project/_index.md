@@ -7,7 +7,7 @@ type: landing
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-#view: 2
+view: 2
 
 # Page sections
 sections:
@@ -19,7 +19,7 @@ sections:
         folders:
           - project
     design:
-      view: 3
+      view: 2
       fill_image: false
       columns: 3
 ---
