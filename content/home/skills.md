@@ -15,10 +15,10 @@ subtitle = "Technical skills I hold"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "code-bracket"
-  icon_pack = "ai"
+  icon = <i class="fa-solid fa-code"></i>
+  #icon_pack = "coding"
   name = "Python"
-  parcent = "75%"
+  parcent = "65%"
   
 [[feature]]
   icon = "chart-bar"
@@ -27,8 +27,8 @@ subtitle = "Technical skills I hold"
   parcent = "80%"  
   
 [[feature]]
-  icon = "circle-stack"
-  icon_pack = "ai"
+  icon = "<i class="fa-solid fa-terminal"></i>"
+  #icon_pack = "coding"
   name = "ehrQL"
   parcent = "70%"
   
