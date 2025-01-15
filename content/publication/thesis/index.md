@@ -13,12 +13,8 @@ abstract: |
 summary: |
   This investigation examined the effect of government policies on COVID-19 transmission using qualitative and quantitative data, policy analysis, epidemiological modeling, and comparative international approaches during the period from January 2020 to January 2021.
 
-# tags:
- #  - SARS-CoV-2
- #  - COVID-19 Vaccination
- #  - mRNA Vaccine
- #  - Adenovirus Vaccine
- #  - Immunology
+tags:
+- COVID-19
 # featured: true
 links:
   - name: "Full Text"

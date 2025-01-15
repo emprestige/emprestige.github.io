@@ -17,8 +17,7 @@ summary: |
   UK citizens have lived through three lockdowns over the course of the Covid-19 pandemic. What effect have these restrictions had on the transmission of the virus? Emily Prestige, Julian Stander and Yinghui Wei investigate
 
 tags:
-  - Royal Statistical Society
-  - Feature Article
+  - COVID-19
 
 featured: false
 links:
