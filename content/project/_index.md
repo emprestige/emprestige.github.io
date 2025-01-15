@@ -1,6 +1,6 @@
 ---
 title: Projects
-type: landing
+#type: landing
 
 # View.
 #   1 = List
@@ -9,17 +9,4 @@ type: landing
 #   4 = Citation
 view: 2
 
-# Page sections
-sections:
-  - block: collection
-    content:
-      title: Selected Projects
-      text: My current and previous projects
-      filters:
-        folders:
-          - project
-    design:
-      view: 2
-      fill_image: false
-      columns: 3
 ---
