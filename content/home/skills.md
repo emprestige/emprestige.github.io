@@ -15,8 +15,8 @@ subtitle = "Technical skills I hold"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = <i class="fa-solid fa-code"></i>
-  #icon_pack = "coding"
+  icon = "code"
+  icon_pack = "ai"
   name = "Python"
   parcent = "65%"
   
@@ -27,8 +27,8 @@ subtitle = "Technical skills I hold"
   parcent = "80%"  
   
 [[feature]]
-  icon = "<i class="fa-solid fa-terminal"></i>"
-  #icon_pack = "coding"
+  icon = "terminal"
+  icon_pack = "ai"
   name = "ehrQL"
   parcent = "70%"
   
