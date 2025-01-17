@@ -6,6 +6,6 @@ title: Projects
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: article-grib
+view: article-grid
 
 ---
