@@ -24,7 +24,7 @@ subtitle = "Technical skills I hold"
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  parcent = "80%"  
+  parcent = "90%"  
   
 [[feature]]
   icon = "search"
