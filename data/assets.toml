@@ -73,7 +73,7 @@
 [css.academicons]
   version = "1.9.4"
   sri = "sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw="
-  url = "https://cdnjs.cloudflare.com/ajax/libs/academicons/%s/css/academicons.min.css"
+  url = "https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.css"
 [css.leaflet]
   version = "1.2.0"
   sri = "sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ=="
