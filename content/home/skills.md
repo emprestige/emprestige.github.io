@@ -27,15 +27,15 @@ subtitle = "Technical skills I hold"
   parcent = "80%"  
   
 [[feature]]
-  icon = "terminal"
-  icon_pack = "ai"
-  name = "ehrQL"
-  parcent = "70%"
+  icon = "search"
+  icon_pack = "fas"
+  name = "Descriptive Analysis"
+  parcent = "80%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Stan"
-  parcent = "25%"
+  name = "Mathematical Modelling"
+  parcent = "65%"
 
 +++
