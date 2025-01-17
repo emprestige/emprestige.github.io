@@ -15,7 +15,7 @@ subtitle = "Technical skills I hold"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "code"
+  icon = "stackoverflow"
   icon_pack = "ai"
   name = "Python"
   parcent = "65%"
@@ -35,7 +35,7 @@ subtitle = "Technical skills I hold"
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Mathematical Modelling"
-  parcent = "65%"
+  name = "Modelling"
+  parcent = "75%"
 
 +++
