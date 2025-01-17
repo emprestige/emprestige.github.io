@@ -33,7 +33,7 @@ subtitle = "Technical skills I hold"
   parcent = "80%"
   
 [[feature]]
-  icon = "magnifying-glass-chart"
+  icon = "chart-area"
   icon_pack = "fas"
   name = "Modelling"
   parcent = "75%"
