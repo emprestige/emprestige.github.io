@@ -54,8 +54,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:em.prestige@lshtm.ac.uk'  # For a direct email link, use "mailto:test@example.org".
-- icon: :butterfly:
-  #icon_pack: emoji
+- icon: conversation
+  icon_pack: ai
   link: https://bsky.app/profile/emprestige.bsky.social
 - icon: google-scholar
   icon_pack: ai
