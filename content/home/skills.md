@@ -21,8 +21,8 @@ subtitle = "Technical skills I hold"
   parcent = "65%"
   
 [[feature]]
-  icon = "chart-bar"
-  icon_pack = "fas"
+  icon = "r-project"
+  icon_pack = "fab"
   name = "R"
   parcent = "80%"  
   
@@ -33,7 +33,7 @@ subtitle = "Technical skills I hold"
   parcent = "80%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "magnifying-glass-chart"
   icon_pack = "fas"
   name = "Modelling"
   parcent = "75%"
