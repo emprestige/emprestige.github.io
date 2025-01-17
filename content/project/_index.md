@@ -1,22 +1,11 @@
 ---
-title: 'Projects'
-date: 2024-05-19
-type: landing
+title: Projects
 
-design:
-  # Section spacing
-  spacing: '5rem'
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Citation
+view: article-grib
 
-# Page sections
-sections:
-  - block: collection
-    content:
-      title: Selected Projects
-      text: Here are a number of projects I have been working on over the past few years
-      filters:
-        folders:
-          - project
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
+---
