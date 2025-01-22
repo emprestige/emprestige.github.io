@@ -44,4 +44,4 @@ hero_media = ""
 +++
 ## My name is **Em Prestige** and I'm a **PhD Student** specialising in **Health Inequalities** using **Electronic Health Records**
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+Get to know me a bit better by taking a look at some of the research I've been a part of! Scroll down for featured work and various projects. Click below to find out more about me - and if you have any questions don't hesitate to reach out!
