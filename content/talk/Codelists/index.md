@@ -8,7 +8,7 @@ abstract: "In groups researchers worked to construct a codelist following a fram
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-11-26"
+date: "2024-11-26T10:15:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
