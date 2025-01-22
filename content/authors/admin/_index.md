@@ -14,7 +14,7 @@ btn:
 superuser: true
 
 # Role/position
-role: PhD Candidate and Research Fellow in infectious disease modelling & dynamics
+role: PhD Candidate in Infectious Disease Modelling & Dynamics
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
   url: "https://www.lshtm.ac.uk/aboutus/people/prestige.em"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate and Research Fellow at London School of Hygiene and Tropical Medicine
+bio: PhD Candidate and Research Fellow at LSHTM
 
 # Should the user's education and interests be displayed?
 display_education: true
