@@ -16,17 +16,17 @@
 [[main]]
   name = "Skills"
   url = "#skills"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Experience"
   url = "#experience"
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "Projects"
   url = "project/"
-  weight = 50
+  weight = 40
 
 [[main]]
   name = "Talks"
@@ -36,13 +36,13 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 80
 
 [[main]]
   name = "Publications"
   url = "#"
   hasChildren = true
-  weight = 30
+  weight = 50
 
 [[main]]
   parent = "Publications"
@@ -59,4 +59,4 @@
 [[main]]
     name = "CV"
     url = "files/cv.pdf"
-    weight = 80
+    weight = 70
