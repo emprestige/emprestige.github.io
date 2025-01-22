@@ -34,7 +34,7 @@ hero_media = ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "authors/admin/"
+  url = "authors/hero/"
   label = "Know more"
   
 [btn_alt]
@@ -42,6 +42,6 @@ hero_media = ""
   label = "Contact me"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## My name is **Em Prestige** and I'm a **PhD Student** specialising in **Health Inequalities** using **Electronic Health Records**
 
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
