@@ -29,9 +29,6 @@ subtitle = "My current and previous projects"
     name = "Contact Tracing"
     tag = "Social Mobility Data"
   
-  [[content.filter_button]]
-    name = "Other"
-    tag = "Other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

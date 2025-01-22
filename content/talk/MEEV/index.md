@@ -1,14 +1,14 @@
 ---
-title: Codelist Construction Best Practice
-event: OpenSAFELY Community Symposium
-event_url: https://www.opensafely.org/symposium/2024/details/
-location: London, United Kingdom
-summary: A workshop on best practices in the construction of clinical codelists
-abstract: "In groups researchers worked to construct a codelist following a framework of best practices for codelist construction. This will be based around OpenCodelists. There was time at the end to review the codelists created and discuss any differences."
+title: Identifying Vaccine Eligibility Within Electronic Health Records
+event: MEEV Monthly Meeting
+#event_url: https://www.opensafely.org/symposium/2024/details/
+location: Online, Worldwide
+summary: A presentation on methods I have used to identify vaccine-eligible patients in EHRs
+abstract: "Monthly meeting for the Modelling and Economic Evaluation of Vaccines (MEEV) research theme in the Centre for Mathematical Modelling of Infectious Diseases (CMMID)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-11-26"
+date: "2025-01-08"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
@@ -21,18 +21,18 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Myself and co-lead Chris Wood after the workshop'
-  focal_point: Right
+#image:
+#  caption: 'Myself and co-lead Chris Wood after the workshop'
+#  focal_point: Right
 
-#links:
+links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #url_code: ""
 #url_pdf: ""
-#url_slides: ""
+url_slides: https://docs.google.com/presentation/d/1Jo1ELrHPZEx-Xoy74ZVwx97NvHjudo2EbHV-_j3Pr80/edit#slide=id.p
 #url_video: ""
 
 # Markdown Slides (optional).
@@ -49,6 +49,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
  - ehr_methods
+ - ehr_vacc
 
 # Enable math on this page?
 math: true
