@@ -25,7 +25,7 @@ organizations:
 bio: PhD Candidate and Research Fellow at LSHTM
 
 # Should the user's education and interests be displayed?
-display_education: false
+display_education: true
 
 interests:
 - Respiratory Infections
@@ -82,4 +82,4 @@ user_groups:
 - Visitors
 ---
 
-Thanks for taking the time to find out more! I have a number of research outputs you can take a look at: including [publications](/#publications) and [talks](/talks)
+Hello! I'm Em (they/them), I am a PhD student in the [Centre for Mathematical Modelling of Infectious Diseases](https://www.lshtm.ac.uk/research/centres/centre-mathematical-modelling-infectious-diseases) (CMMID) working with [OpenSAFELY](https://www.opensafely.org/) to uncover disparities in respiratory viruses and vaccine uptake.
