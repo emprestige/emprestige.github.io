@@ -5,7 +5,7 @@ tags:
 #- Comparitive effectiveness
 #- Vaccination
 - Electronic Health Records
-date: "2017-04-27T00:00:00Z"
+date: "2024-12-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: 

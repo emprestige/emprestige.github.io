@@ -12,7 +12,7 @@ date: "2024-09-30T00:00:00Z"
 #doi: "pre-print"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-03-01T00:00:00Z"
+publishDate: "2024-12-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
