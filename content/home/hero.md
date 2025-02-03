@@ -3,7 +3,7 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 25  # Order that this section will appear.
 
 title = "Academia"
 
@@ -42,6 +42,5 @@ hero_media = ""
   label = "Contact me"
 
 +++
-## Hi, my name is **Em Prestige** and I'm a **PhD Student** specialising in **Health Inequalities** using **Electronic Health Records**
 
 Get to know me a bit better by taking a look at some of the research I've been a part of! Scroll down for featured work and various projects. Click below to find out more about me - and if you have any questions don't hesitate to reach out!
