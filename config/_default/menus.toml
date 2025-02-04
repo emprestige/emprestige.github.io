@@ -29,25 +29,25 @@
   weight = 80
 
 [[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 100
+
+[[main]]
   name = "Talks"
   url = "talk/"
-  weight = 90
-
-#[[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 80
+  weight = 110
 
 [[main]]
   name = "About me"
   url = "hero/"
-  weight = 95
+  weight = 120
 
 [[main]]
   name = "Publications"
   url = "#"
   hasChildren = true
-  weight = 100
+  weight = 130
 
 [[main]]
   parent = "Publications"
@@ -64,4 +64,4 @@
 [[main]]
     name = "CV"
     url = "static/files/cv.pdf"
-    weight = 110
+    weight = 140
