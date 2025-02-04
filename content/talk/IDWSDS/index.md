@@ -15,7 +15,11 @@ date: "2024-10-08T16:30:00Z"
 # Schedule page publish date (NOT talk date).
 publishDate: "2024-10-15T00:00:00Z"
 
-authors: []
+authors:
+  - Poppy Mallinson
+  - Emily Granger
+  - Orlagh Carroll
+  - Em Prestige
 tags: []
 
 # Is this a featured talk? (true/false)

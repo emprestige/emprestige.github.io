@@ -15,7 +15,9 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2024-12-01T00:00:00Z"
 
-authors: []
+authors:
+  - Em Prestige
+  - Christopher Wood
 tags: [Electronic Health Records]
 
 # Is this a featured talk? (true/false)
@@ -48,8 +50,8 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - ["ehr_methods"]
-  - ["ehr_vacc"]
+  - ehr_methods
+  - ehr_vacc
 
 # Enable math on this page?
 math: true
