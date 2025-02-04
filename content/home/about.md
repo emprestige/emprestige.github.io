@@ -1,6 +1,6 @@
 +++
 # About widget.
-widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
@@ -9,13 +9,5 @@ weight = 10  # Order that this section will appear in.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 avatar_image= "new-pic-full-2.jpg"
-
-[btn]
-  url = "authors/hero/"
-  label = "Know More"
-  
-[btn_alt]
-  url = "#contact"
-  label = "Contact Me"
 
 +++
