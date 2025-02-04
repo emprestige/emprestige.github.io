@@ -87,5 +87,5 @@ Hello! I'm Em Prestige (they/them), I am a PhD student in the [Centre for Mathem
 
 You can see my full list of publications [here](/content/publication/) and recent talks I've given [here](/content/talk/). Alongside my research I am interested in adovacy for disabled staff and students, networking for minority groups within academia and student representation.
 
-{{< btn url="/authors/hero/" text="Know more" >}}
-{{< alt_btn url="#contact" text="Contact me" >}}
+{{< button url="/authors/hero/" text="Know more" >}}
+{{< button url="#contact" text="Contact me" >}}
