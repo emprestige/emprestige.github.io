@@ -48,8 +48,8 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
- - ["ehr_methods"]
- - ["ehr_vacc"]
+ - ehr_methods
+ - ehr_vacc
 
 # Enable math on this page?
 math: true
