@@ -32,7 +32,7 @@ image:
 #  url: https://twitter.com/georgecushen
 #url_code: ""
 #url_pdf: ""
-#url_slides: ""
+url_slides: https://docs.google.com/presentation/d/1aAYrIbsowVS9qN3KpL5MXUu-jlip1Id_XZnF50QdpMc/edit?usp=sharing
 #url_video: ""
 
 # Markdown Slides (optional).
