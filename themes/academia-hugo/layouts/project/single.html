@@ -47,7 +47,8 @@
       {{ partial "li_compact" . }}
       {{ end }}
       {{ end }}
-      {{ end }}
+    </div>
+    {{ end }}
 
       {{ $items := where (where site.RegularPages "Type" "talk") ".Params.projects" "intersect" (slice $project) }}
       {{ $talks_len := len $items }}
@@ -63,8 +64,8 @@
         {{ partial "li_compact" . }}
         {{ end }}
         {{ end }}
-        {{ end }}
-    </div>
+      </div> 
+      {{ end }}
 
   </div>
 </article>
