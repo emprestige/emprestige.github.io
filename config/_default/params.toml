@@ -137,15 +137,15 @@ sharing = false
   citation_style = "apa"
 
 # Configuration of project pages.
-[project]
+[projects]
   # Views for associated content.
   #   1: List
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
   #post_view = 3
-  publication_view = 3
-  talk_view = 2
+  publication_view = 1
+  talk_view = 3
 
 # Search.
 [search]
