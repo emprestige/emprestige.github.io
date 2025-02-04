@@ -12,10 +12,10 @@ avatar_image= "new-pic-full.jpg"
 
 [btn]
   url = "authors/hero/"
-  label = "Know more"
+  label = "Know More"
   
 [btn_alt]
   url = "#contact"
-  label = "Contact me"
-  
+  label = "Contact Me"
+
 +++
