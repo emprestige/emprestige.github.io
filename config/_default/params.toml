@@ -137,7 +137,37 @@ sharing = false
   citation_style = "apa"
 
 # Configuration of project pages.
-[projects]
+[ehr_disp]
+  # Views for associated content.
+  #   1: List
+  #   2: Compact
+  #   3: Card
+  #   4: Citation (publications only)
+  #post_view = 3
+  publication_view = 3
+  talk_view = 3
+
+[ehr_methods]
+  # Views for associated content.
+  #   1: List
+  #   2: Compact
+  #   3: Card
+  #   4: Citation (publications only)
+  #post_view = 3
+  publication_view = 3
+  talk_view = 3
+
+[ehr_vacc]
+  # Views for associated content.
+  #   1: List
+  #   2: Compact
+  #   3: Card
+  #   4: Citation (publications only)
+  #post_view = 3
+  publication_view = 3
+  talk_view = 3
+
+[mobility]
   # Views for associated content.
   #   1: List
   #   2: Compact
