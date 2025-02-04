@@ -77,11 +77,21 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
+
 ---
 
 Hello! I'm Em Prestige (they/them), I am a PhD student in the [Centre for Mathematical Modelling of Infectious Diseases](https://www.lshtm.ac.uk/research/centres/centre-mathematical-modelling-infectious-diseases) (CMMID) working with [OpenSAFELY](https://www.opensafely.org/) to uncover disparities in respiratory viruses and vaccine uptake.
 
 You can see my full list of publications [here](/content/publication/) and recent talks I've given [here](/content/talk/). Alongside my research I am interested in adovacy for disabled staff and students, networking for minority groups within academia and student representation.
++++
+[btn]
+  url = "authors/hero/"
+  label = "Know more"
+  
+[btn_alt]
+  url = "#contact"
+  label = "Contact me"
++++
