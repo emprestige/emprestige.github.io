@@ -9,4 +9,13 @@ weight = 10  # Order that this section will appear in.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 avatar_image= "new-pic-full.jpg"
+
+[btn]
+  url = "authors/hero/"
+  label = "Know more"
+  
+[btn_alt]
+  url = "#contact"
+  label = "Contact me"
+  
 +++
