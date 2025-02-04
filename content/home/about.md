@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear in.
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
-avatar_image= "new-pic-full.jpg"
+avatar_image= "new-pic-full-2.jpg"
 
 [btn]
   url = "authors/hero/"
