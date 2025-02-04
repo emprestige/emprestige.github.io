@@ -8,6 +8,11 @@
   url = ""
   weight = 10
 
+[[main]]
+  name = "About Me"
+  url = "authors/hero/"
+  weight = 20
+
 #[[main]]
 #  name = "Publications"
 #  url = "#publications"
@@ -37,11 +42,6 @@
   name = "Talks"
   url = "talk/"
   weight = 110
-
-[[main]]
-  name = "About me"
-  url = "hero/"
-  weight = 120
 
 [[main]]
   name = "Publications"
