@@ -430,14 +430,8 @@ a.badge:hover {
   }
 }
 
-.btn-primary-2{
-  color: $black;
-}
-
-.btn-outline-primary-2{
-  &:hover{
-    color: $black;
-  }
+.btn-light{
+  color: $light-pink;
 }
 
 .btn-links .btn {
