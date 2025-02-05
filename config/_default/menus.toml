@@ -51,7 +51,7 @@
 
 [[main]]
   parent = "Publications"
-  name = "Recent Publications"
+  name = "All Publications"
   url = "publication/"
 
 #[[main]]
