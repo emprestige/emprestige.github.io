@@ -430,6 +430,16 @@ a.badge:hover {
   }
 }
 
+.btn-primary-2{
+  color: $black;
+}
+
+.btn-outline-primary-2{
+  &:hover{
+    color: $black;
+  }
+}
+
 .btn-links .btn {
   padding: 5px .5rem 5px .5rem;
   line-height: 1;
