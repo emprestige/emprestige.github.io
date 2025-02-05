@@ -1,0 +1,21 @@
+.btn-primary {
+  background-color: lightpink;
+  border-color: lightpink;
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: pink;
+  border-color: pink;
+}
+
+.btn-outline-primary {
+  color: lightpink;
+  border-color: lightpink;
+}
+
+.btn-outline-primary:hover {
+  background-color: pink;
+  border-color: pink;
+  color: white;
+}
