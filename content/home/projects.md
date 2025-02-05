@@ -26,7 +26,7 @@ subtitle = "My current and previous projects"
     tag = "Electronic Health Records"
   
   [[content.filter_button]]
-    name = "Contact Tracing"
+    name = "Social Mobility Data"
     tag = "Social Mobility Data"
   
 
