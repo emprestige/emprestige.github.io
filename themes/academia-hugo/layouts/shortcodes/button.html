@@ -11,7 +11,7 @@
 {{ else if in (slice "http" "https") $scheme }}
   {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ end }}
-<a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} class="btn {{ if .Get "text_color_light" }}btn-light{{ else }}btn-primary{{ end }} btn-lg page-scroll">
+<a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} class="btn {{ if eq (.Get "style") "inverse" }}btn-outline-primary{{ else if .Get "text_color_light" }}btn-light{{ else }}btn-primary{{ end }} btn-lg page-scroll">
   {{ if .Get "icon" }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ .Get "icon" }} mr-2" aria-hidden="true"></i>{{ end }}
   {{ .Get "text" | markdownify | emojify | safeHTML }}
 </a>
