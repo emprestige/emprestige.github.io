@@ -8,10 +8,10 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "About Me"
-  url = "authors/hero/"
-  weight = 20
+#[[main]]
+#  name = "About Me"
+#  url = "authors/hero/"
+#  weight = 20
 
 #[[main]]
 #  name = "Publications"
@@ -34,11 +34,6 @@
   weight = 80
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 100
-
-[[main]]
   name = "Talks"
   url = "talk/"
   weight = 110
@@ -47,7 +42,7 @@
   name = "Publications"
   url = "#"
   hasChildren = true
-  weight = 130
+  weight = 120
 
 [[main]]
   parent = "Publications"
@@ -58,6 +53,11 @@
   parent = "Publications"
   name = "Recent Publications"
   url = "publication/"
+
+[[main]]
+  name = "Contact Me"
+  url = "#contact"
+  weight = 130
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
