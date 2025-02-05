@@ -433,11 +433,9 @@ a.badge:hover {
 .btn-light{
   color: $white;
   background-color: #F76497;
-  border-color: #F76497;
+  border-color: $white;
   &:hover{
     color: #F76497;
-    background-color: $white;
-    border-color: $white;
   }
 }
 
