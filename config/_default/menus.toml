@@ -20,12 +20,12 @@
 
 [[main]]
   name = "Skills"
-  url = "#skills"
+  url = "authors/hero/#skills"
   weight = 30
 
 [[main]]
   name = "Experience"
-  url = "#experience"
+  url = "authors/hero/#experience"
   weight = 40
 
 [[main]]
