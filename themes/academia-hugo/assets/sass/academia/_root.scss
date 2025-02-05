@@ -432,7 +432,13 @@ a.badge:hover {
 
 .btn-light{
   color: $white;
-  background-color: $pink;
+  background-color: lightpink;
+  border-color: lightpink;
+  &:hover{
+    color: lightpink;
+    background-color: $white;
+    border-color: $white;
+  }
 }
 
 .btn-links .btn {
