@@ -90,5 +90,5 @@ You can see my full list of publications [here](/content/publication/) and recen
 </br>
 </br>
 
-{{< button url="/about/#hero/" text="Know more" text_color_light="true" >}}
-{{< button url="#contact" text="Contact me" style="inverse" >}}
+{{< button url="/about/#hero/" text="Know more" style="inverse" >}}
+#{{< button url="#contact" text="Contact me" style="inverse" >}}
