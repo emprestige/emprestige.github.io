@@ -18,4 +18,4 @@ image:
 
 I have worked closely with members of the [OpenSAFELY](https://www.opensafely.org/) team on best practices around codelist construction, and have worked closely with clinicians on computable phenotypes for identifying patients. Both are necessary steps for analysing EHRs.
 
-{{< button url="/project/" text="All Projects" style="inverse" >}}
+{{< button url="project/" text="All Projects" style="inverse" >}}

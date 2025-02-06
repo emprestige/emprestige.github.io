@@ -88,5 +88,5 @@ Hello! I'm Em (they/them), I am a PhD student in the [Centre for Mathematical Mo
 I have a number of research outputs you can take a look at, select below what you'd like to see! Or scroll down for my recent work.
 
 {{< button url="/about/#hero/" text="About Me" style="inverse" >}}
-{{< button url="/content/publication/" text="All Publications" >}}
-{{< button url="/content/talk/" text="Talks Given" style="inverse" >}}
+{{< button url="publication/" text="All Publications" >}}
+{{< button url="talk/" text="Talks Given" style="inverse" >}}
