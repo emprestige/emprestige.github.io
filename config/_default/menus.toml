@@ -10,7 +10,7 @@
 
 #[[main]]
 #  name = "About Me"
-#  url = "about/hero/"
+#  url = "about/#hero/"
 #  weight = 20
 
 #[[main]]
