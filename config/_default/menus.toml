@@ -8,56 +8,57 @@
   url = "#landing"
   weight = 10
 
-#[[main]]
-#  name = "About Me"
-#  url = "about/#hero/"
-#  weight = 20
-
-#[[main]]
-#  name = "Publications"
-#  url = "#publications"
-#  weight = 20
-
-[[main]]
-  name = "Skills"
-  url = "about/#skills"
-  weight = 30
-
-[[main]]
-  name = "Experience"
-  url = "about/#experience"
-  weight = 40
-
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 80
-
-[[main]]
-  name = "Talks"
-  url = "talk/"
-  weight = 110
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  hasChildren = true
   weight = 20
 
 [[main]]
-  parent = "Publications"
-  name = "Featured Publications"
+  name = "Recent Publications"
   url = "#featured"
+  weight = 20
 
 [[main]]
-  parent = "Publications"
-  name = "All Publications"
+  name = "Know More"
+  url = ""
+  hasChildren = true
+  weight = 30
+
+[[main]]
+  parent = "Know More"
+  name = "About Me"
+  url = about/
+
+[[main]]
+  parent = "Know More"
+  name = "My Publications"
   url = "publication/"
 
+[[main]]
+  parent = "Know More"
+  name = "My Talks"
+  url = "talk/"
+
 #[[main]]
-#  name = "Contact Me"
-#  url = "#contact"
-#  weight = 130
+#  name = "Publications"
+#  url = "#featured"
+#  hasChildren = true
+#  weight = 20
+
+#[[main]]
+#  parent = "Publications"
+#  name = "Featured Publications"
+#  url = "#featured"
+
+#[[main]]
+#  parent = "Publications"
+#  name = "All Publications"
+#  url = "publication/"
+
+[[main]]
+  name = "Contact Me"
+  url = "#contact"
+  weight = 130
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
