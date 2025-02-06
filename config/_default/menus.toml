@@ -37,23 +37,29 @@
 
 [[main]]
   parent = "Know More"
+  name = "My Projects"
+  url = "project/"
+  weight = 2
+
+[[main]]
+  parent = "Know More"
   name = "My Publications"
   url = "publication/"
-  weight = 2
+  weight = 3
 
 [[main]]
   parent = "Know More"
   name = "My Talks"
   url = "talk/"
-  weight = 3
+  weight = 4
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   parent = "Know More"
   name = "Full CV"
-  url = "static/files/em_prestige_cv.pdf/"
-  weight = 4
+  url = "files/em_prestige_cv.pdf"
+  weight = 5
 
 #[[main]]
 #  name = "Publications"
