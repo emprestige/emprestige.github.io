@@ -34,7 +34,7 @@ weight = 25  # Order that this section will appear.
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "authors/hero/"
+  url = "about/hero/"
   label = "Know more"
   
 [btn_alt]
