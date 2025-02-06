@@ -52,7 +52,7 @@
 [[main]]
   parent = "Know More"
   name = "Full CV"
-  url = "static/files/em_prestige_cv.pdf"
+  url = "static/files/em_prestige_cv.pdf/"
   weight = 4
 
 #[[main]]
