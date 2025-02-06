@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-#title = "Academia"
+title = "Academia"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 #hero_media = ""
