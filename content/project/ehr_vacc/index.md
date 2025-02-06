@@ -17,3 +17,5 @@ image:
 ---
 
 One of my current pre-prints I have worked on uses Electronic Health Records (EHRs) to perform vaccine-effectiveness studies. I am also currently working on modelling maternal immunisation uptake across England using EHR data.
+
+{{< button url="/project/" text="All Projects" style="inverse" >}}

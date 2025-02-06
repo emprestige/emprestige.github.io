@@ -16,4 +16,6 @@ image:
   preview_only: true
 ---
 
-I am currently using Electronic Health Records (EHRs) to examine and compare disparities in respiratory virus outcomes using [OpenSAFELY](https://www.opensafely.org/approved-projects/#project-176)
+I am currently using Electronic Health Records (EHRs) to examine and compare disparities in respiratory virus outcomes through an [OpenSAFELY Project](https://www.opensafely.org/approved-projects/#project-176).
+
+{{< button url="/project/" text="All Projects" style="inverse" >}}
