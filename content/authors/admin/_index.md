@@ -87,7 +87,4 @@ Hello! I'm Em (they/them), I am a PhD student in the [Centre for Mathematical Mo
 
 You can see my full list of publications [here](/content/publication/) and recent talks I've given [here](/content/talk/). Alongside my research I am interested in adovacy for disabled staff and students, networking for minority groups within academia and student representation.
 
-</br>
-</br>
-
 {{< button url="/about/#hero/" text="About Me" style="inverse" >}}
