@@ -83,5 +83,3 @@ user_groups:
 ---
 
 Thanks for taking the time to find out more! Below are a number of my research interests, alongside my research I am interested in adovacy for disabled staff and students, networking for minority groups within academia and student representation.
-
-I have a number of research outputs you can take a look at: including [publications](/publication/) and [talks](/talk/). Scroll down for information about [skills I hold](about/#skills) and my [research experience](about/#experience)

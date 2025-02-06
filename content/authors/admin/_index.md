@@ -85,6 +85,8 @@ email: ""
 
 Hello! I'm Em (they/them), I am a PhD student in the [Centre for Mathematical Modelling of Infectious Diseases](https://www.lshtm.ac.uk/research/centres/centre-mathematical-modelling-infectious-diseases) (CMMID) working with [OpenSAFELY](https://www.opensafely.org/) to uncover disparities in respiratory viruses and vaccine uptake.
 
-You can see my full list of publications [here](/content/publication/) and recent talks I've given [here](/content/talk/). 
+I have a number of research outputs you can take a look at, select below what you'd like to see! Or scroll down for my recent work.
 
 {{< button url="/about/#hero/" text="About Me" style="inverse" >}}
+{{< button url="/content/publication/" text="All Publications" >}}
+{{< button url="/content/talk/" text="Talks Given" style="inverse" >}}
