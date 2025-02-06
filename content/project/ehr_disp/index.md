@@ -18,4 +18,4 @@ image:
 
 I am currently using Electronic Health Records (EHRs) to examine and compare disparities in respiratory virus outcomes through an [OpenSAFELY Project](https://www.opensafely.org/approved-projects/#project-176).
 
-{{< button url="projects/" text="All Projects" style="inverse" >}}
+{{< button url="project/" text="All Projects" style="inverse" >}}
