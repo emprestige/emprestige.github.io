@@ -82,4 +82,4 @@ user_groups:
 - Visitors
 ---
 
-Thanks for taking the time to find out more! I have a number of research outputs you can take a look at: including [publications](/publication/) and [talks](/talk/)
+Thanks for taking the time to find out more! I have a number of research outputs you can take a look at: including [publications](/publication/) and [talks](/talk/). Scroll downs for information about [skills I hold](/#skills) and my [research experience](/#experience)
