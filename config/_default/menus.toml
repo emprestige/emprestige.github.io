@@ -27,7 +27,7 @@
 [[main]]
   parent = "Know More"
   name = "About Me"
-  url = about/
+  url = "about/"
 
 [[main]]
   parent = "Know More"
