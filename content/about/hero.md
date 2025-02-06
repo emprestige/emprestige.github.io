@@ -13,11 +13,11 @@ weight = 20  # Order that this section will appear in.
 #title = "About me"
 
 [btn]
-    url = "content/publication/"
-    label = "Full List of Pulications"
+    url = "publication/"
+    label = "Full List of Publications"
 
 [btn_alt]
-    url = "content/talk/"
+    url = "talk/"
     label = "Recent and Upcoming Talks"
 
 +++
