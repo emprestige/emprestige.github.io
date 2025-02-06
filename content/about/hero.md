@@ -10,4 +10,6 @@ weight = 10  # Order that this section will appear in.
 author = "hero"
 avatar_image= "user-full.jpg"
 
+title = "About me"
+
 +++

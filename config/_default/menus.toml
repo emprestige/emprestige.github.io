@@ -9,20 +9,20 @@
   weight = 10
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 20
-
-[[main]]
   name = "Recent Publications"
   url = "#featured"
   weight = 20
 
 [[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 30
+
+[[main]]
   name = "Know More"
   url = ""
   hasChildren = true
-  weight = 30
+  weight = 40
 
 [[main]]
   parent = "Know More"
