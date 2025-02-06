@@ -51,7 +51,6 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
   - ehr_methods
-  - ehr_vacc
 
 # Enable math on this page?
 math: true
