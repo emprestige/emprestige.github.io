@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#landing"
   weight = 10
 
 #[[main]]
@@ -20,12 +20,12 @@
 
 [[main]]
   name = "Skills"
-  url = "authors/hero/#skills"
+  url = "about/#skills"
   weight = 30
 
 [[main]]
   name = "Experience"
-  url = "authors/hero/#experience"
+  url = "about/#experience"
   weight = 40
 
 [[main]]
