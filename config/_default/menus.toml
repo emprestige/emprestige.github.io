@@ -19,10 +19,15 @@
   weight = 30
 
 [[main]]
+  name = "Contact Me"
+  url = "#contact"
+  weight = 40
+
+[[main]]
   name = "Know More"
   url = ""
   hasChildren = true
-  weight = 40
+  weight = 50
 
 [[main]]
   parent = "Know More"
@@ -39,6 +44,13 @@
   name = "My Talks"
   url = "talk/"
 
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+[[main]]
+  parent = "Know More"
+  name = "Full CV"
+  url = "static/files/em_prestige_cv.pdf"
+
 #[[main]]
 #  name = "Publications"
 #  url = "#featured"
@@ -54,15 +66,3 @@
 #  parent = "Publications"
 #  name = "All Publications"
 #  url = "publication/"
-
-[[main]]
-  name = "Contact Me"
-  url = "#contact"
-  weight = 130
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[main]]
-    name = "CV"
-    url = "static/files/em_prestige_cv.pdf"
-    weight = 140
