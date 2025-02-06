@@ -12,8 +12,6 @@ weight = 20  # Order that this section will appear in.
 
 #title = "About me"
 
-Scroll down to see a list of skills I hold and my recent experience - or click below for my research outputs
-
 [btn]
     url = "content/publication/"
     label = "Full List of Pulications"
@@ -23,3 +21,5 @@ Scroll down to see a list of skills I hold and my recent experience - or click b
     label = "Recent and Upcoming Talks"
 
 +++
+
+Scroll down to see a list of skills I hold and my recent experience - or click below for my research outputs
