@@ -39,8 +39,8 @@
 {{ if $st.Params.content.filters.exclude_future }}
 {{ $query = where $query "Date" "<" now }}
 {{ end }}
-{{ if $st.Params.content.filters.project_type }}
-{{ $archive_page = site.GetPage (printf "project/%s" $st.Params.content.filters.project_type) }}
+{{ if $st.Params.content.filters.project }}
+{{ $archive_page = site.GetPage (printf "project/%s" $st.Params.content.filters.project) }}
 {{ $query = $query | intersect $archive_page.Pages }}
 {{ end }}
 
