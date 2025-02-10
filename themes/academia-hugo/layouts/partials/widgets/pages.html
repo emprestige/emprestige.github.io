@@ -39,6 +39,10 @@
 {{ if $st.Params.content.filters.exclude_future }}
 {{ $query = where $query "Date" "<" now }}
 {{ end }}
+{{ if $st.Params.content.filters.project_type }}
+{{ $archive_page = site.GetPage (printf "project/%s" $st.Params.content.filters.project_type) }}
+{{ $query = $query | intersect $archive_page.Pages }}
+{{ end }}
 
 {{ $count := len $query }}
 
@@ -61,6 +65,8 @@
 {{ $i18n = "more_talks" }}
 {{ else if eq $items_type "publication" }}
 {{ $i18n = "more_publications" }}
+{{ else if eq $items_type "project" }}
+{{ $i18n = "more_projects" }}
 {{ else }}
 {{ $i18n = "more_pages" }}
 {{ end }}
