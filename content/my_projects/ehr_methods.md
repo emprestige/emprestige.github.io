@@ -31,7 +31,7 @@ title = "Methods for EHR Research"
     exclude_featured = false
     exclude_past = false
     exclude_future = false
-    project_type = "ehr_methods"
+    project = "ehr_methods"
     
 [design]
   # Toggle between the various page layout types.
