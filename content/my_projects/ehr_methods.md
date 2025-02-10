@@ -10,7 +10,7 @@ title = "Methods for EHR Research"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "ehr_methods"
+  page_type = "project"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -19,7 +19,15 @@ title = "Methods for EHR Research"
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  #filter = "ehr_methods"
+  filter_default = 0
+
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
+
+  [[content.filter_button]]
+    name = "Health Inequalities"
+    tag = "Health Inequalities"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -29,7 +37,7 @@ title = "Methods for EHR Research"
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 1
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -42,23 +50,5 @@ title = "Methods for EHR Research"
   
   # Background color.
   # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
 +++
 
