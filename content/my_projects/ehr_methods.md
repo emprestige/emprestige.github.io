@@ -12,7 +12,7 @@ title = "Methods for EHR Research"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "ehr_methods"
+  page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -31,6 +31,7 @@ title = "Methods for EHR Research"
     exclude_featured = false
     exclude_past = false
     exclude_future = false
+    project = "ehr_methods"
     
 [design]
   # Toggle between the various page layout types.
