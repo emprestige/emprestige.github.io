@@ -31,7 +31,7 @@ title = "Methods for EHR Research"
     exclude_featured = false
     exclude_past = false
     exclude_future = false
-    project_type = ""
+    project_type = "ehr_methods"
     
 [design]
   # Toggle between the various page layout types.
@@ -39,7 +39,7 @@ title = "Methods for EHR Research"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
