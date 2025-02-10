@@ -38,7 +38,7 @@
 [[main]]
   parent = "Know More"
   name = "My Projects"
-  url = "project/"
+  url = "my_projects/"
   weight = 2
 
 [[main]]
