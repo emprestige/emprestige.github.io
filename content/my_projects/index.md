@@ -10,6 +10,6 @@ sections:
         title: Methods for EHR Research
         filters:
             folders:
-                - ehr_disp
+                - ehr_methods
 
 ---
