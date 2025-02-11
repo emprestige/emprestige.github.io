@@ -5,8 +5,8 @@ type: landing
 
 sections:
     - block: collection
-    id: projects
-    content:
+      id: projects
+      content:
         title: Methods for EHR Research
         filters:
             folders:
