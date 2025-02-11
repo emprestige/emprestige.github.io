@@ -1,7 +1,7 @@
 ---
 title: "My Projects"
 date: 2025-02-11
-type: landing page
+type: portfolio
 
 sections:
     - block: collection
