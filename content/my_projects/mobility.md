@@ -8,8 +8,13 @@ weight = 40  # Order that this section will appear.
 title = "Social Mobility Data"
 subtitle = "Using publicly available mobility data to predict contacts"
 
+[[feature]]
+    icon = "hexagon-nodes"
+    pack = "fas"
+    name = "Using mobility data collected from Google maps data I worked to determine how predicitive this was of contacts during the COVID-19 pandemic."
+
+[btn]
+    url = "project/mobility/"
+    label = "See More"
+
 +++
-
-Using mobility data collected from Google maps data I worked to determine how predicitive this was of contacts during the COVID-19 pandemic.
-
-{{< button url="project/mobility/" text="See More" style="inverse" >}}
