@@ -10,6 +10,14 @@ subtitle = "Using Electronic Health Records to uncover disparities in health out
 
 +++
 
-I am currently using Electronic Health Records (EHRs) to examine and compare disparities in respiratory virus outcomes through an [OpenSAFELY Project](https://www.opensafely.org/approved-projects/#project-176).
+<div class="row">
+  <div class="col-md-6">
+    I am currently using Electronic Health Records (EHRs) to examine and compare disparities in respiratory virus outcomes through an [OpenSAFELY Project](https://www.opensafely.org/approved-projects/#project-176).
 
-{{< button url="project/ehr_disp/" text="See More" style="inverse" >}}
+    {{< button url="project/ehr_disp/" text="See More" style="inverse" >}}
+  </div>
+  <div class="col-md-6">
+    {{% feature icon="chart-pie" icon_pack="fas" name="Disparities" percent="75%" %}}
+    {{% feature icon="lung-virus" icon_pack="fas" name="Respiratory Viruses" percent="50%" %}}
+  </div>
+</div>
