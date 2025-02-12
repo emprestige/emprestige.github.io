@@ -1,5 +1,5 @@
 +++
-# A project section created with the Featurette widget.
+# A project section created with the blank widget.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
