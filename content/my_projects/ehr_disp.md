@@ -16,6 +16,8 @@ subtitle = "Using Electronic Health Records to uncover disparities in health out
 
     {{< button url="project/ehr_disp/" text="See More" style="inverse" >}}
   </div>
+</div>
+<div class="row feature">
   <div class="col-md-6">
     {{< feature icon="chart-pie" icon_pack="fas" name="Disparities" percent="75%" >}}
     {{< feature icon="lung-virus" icon_pack="fas" name="Respiratory Viruses" percent="50%" >}}
