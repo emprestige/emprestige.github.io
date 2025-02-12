@@ -16,6 +16,6 @@ image:
   preview_only: true
 ---
 
-Using mobility data collected from Google map data I worked to determine how predicitive this was of contacts during the COVID-19 pandemic.
+Using mobility data collected from Google maps data I worked to determine how predicitive this was of contacts during the COVID-19 pandemic.
 
 {{< button url="project/" text="All Projects" style="inverse" >}}
