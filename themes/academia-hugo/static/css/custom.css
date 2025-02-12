@@ -13,3 +13,11 @@
     flex-basis: 100%;
     height: 0;
 }
+
+.feature {
+    font-size: 0.8em; /* Adjust the size as needed */
+}
+
+.feature .icon {
+    font-size: 1.5em; /* Adjust the icon size as needed */
+}
