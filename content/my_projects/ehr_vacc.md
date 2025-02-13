@@ -11,10 +11,10 @@ subtitle = "Using routinely collected data to model vaccine related data"
 +++
 
 {{< columns >}}
-<div class="col-md-6">
+<div class="col-md-4">
     {{< feature icon="syringe" icon_pack="fas">}}
 </div>
-<div class="col-md-6">
+<div class="col-md-4">
     {{< feature icon="magnifying-glass-chart" icon_pack="fas">}}
 </div>
 {{< /columns >}}
