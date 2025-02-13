@@ -10,16 +10,16 @@ subtitle = "Using routinely collected data to model vaccine related data"
 
 +++
 
-{{< columns >}}
 <div class="row justify-content-center">
+{{< columns >}}
     <div class="col-md-4">
         {{< feature icon="syringe" icon_pack="fas">}}
     </div>
     <div class="col-md-4">
         {{< feature icon="magnifying-glass-chart" icon_pack="fas">}}
     </div>
-</div>
 {{< /columns >}}
+</div>
 
 I am interested in studying vaccine uptake and effectiveness, as well as the impact of vaccine uptake on existing burden of respiratory viruses. One of my current pre-prints I have worked on uses Electronic Health Records (EHRs) to perform vaccine-effectiveness studies. I am also currently working on modelling maternal immunisation uptake across England using EHR data.
 
