@@ -68,7 +68,7 @@
 
 [css.fontAwesome]
   version = "6.7.2"
-  sri = "sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h"
+  sri = "sha384-QvGJBgkqeVjFCXW39Q3psy0yEymI5WTMC5V+6LnvmNIeDfvGo1AI/j0AlTrID9lQ"
   url = "https://use.fontawesome.com/releases/v%s/css/all.css"
 [css.academicons]
   version = "1.8.6"
