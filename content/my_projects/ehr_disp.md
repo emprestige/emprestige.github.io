@@ -16,7 +16,7 @@ subtitle = "Using Electronic Health Records to uncover disparities in health out
 </div>
 <div class="col-md-6">
     {{< feature icon="chart-pie" icon_pack="fas" name="Disparities" >}}
-    {{< feature icon="lungs-virus" icon_pack="fas" name="Respiratory Viruses" >}}
+    {{< feature icon="fa-lungs-virus" icon_pack="fas" name="Respiratory Viruses" >}}
 </div>
 {{< /columns >}}
 
