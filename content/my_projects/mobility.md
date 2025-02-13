@@ -12,4 +12,15 @@ subtitle = "Using publicly available mobility data to predict contacts"
 
 Using mobility data collected from Google maps data I worked to determine how predicitive this was of contacts during the COVID-19 pandemic.
 
+{{< columns >}}
+<div class="col-md-6">
+    {{< feature icon="person-walking-dashed-line-arrow-right" icon_pack="fas">}}
+</div>
+<div class="col-md-6">
+    {{< feature icon="hexagon-nodes" icon_pack="fas">}}
+</div>
+{{< /columns >}}
+
+</br>
+
 {{< button url="project/mobility/" text="See More" style="inverse" >}}

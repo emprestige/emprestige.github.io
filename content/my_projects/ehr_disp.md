@@ -14,11 +14,13 @@ I am currently using Electronic Health Records (EHRs) to examine and compare dis
 
 {{< columns >}}
 <div class="col-md-6">
-    {{< feature icon="lungs-virus" icon_pack="fas" name="Respiratory Viruses" >}}
+    {{< feature icon="lungs-virus" icon_pack="fas">}}
 </div>
 <div class="col-md-6">
-    {{< feature icon="chart-pie" icon_pack="fas" name="Disparities" >}}
+    {{< feature icon="chart-pie" icon_pack="fas">}}
 </div>
 {{< /columns >}}
+
+</br>
 
 {{< button url="project/ehr_disp/" text="See More" style="inverse" >}}
