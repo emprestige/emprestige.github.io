@@ -10,16 +10,18 @@ subtitle = "Using Electronic Health Records to uncover disparities in health out
 
 +++
 
-<div class="row justify-content-center">
 {{< columns >}}
-  <div class="col-md-4">
-      {{< feature icon="lungs-virus" icon_pack="fas">}}
-  </div>
-  <div class="col-md-4">
-      {{< feature icon="chart-pie" icon_pack="fas">}}
-  </div>
-{{< /columns >}}
+<div class="col-md-4">
 </div>
+<div class="col-md-4">
+    {{< feature icon="lungs-virus" icon_pack="fas">}}
+</div>
+<div class="col-md-4">
+    {{< feature icon="chart-pie" icon_pack="fas">}}
+</div>
+<div class="col-md-4">
+</div>
+{{< /columns >}}
 
 I am currently using Electronic Health Records (EHRs) to examine and compare disparities in respiratory virus outcomes through an [OpenSAFELY Project](https://www.opensafely.org/approved-projects/#project-176).
 
