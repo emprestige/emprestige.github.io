@@ -11,15 +11,15 @@ subtitle = "Using Electronic Health Records to uncover disparities in health out
 +++
 
 {{< columns >}}
-<div class="col-md-2">
+<div class="col-md-3">
 </div>
-<div class="col-md-4">
+<div class="col-md-3">
     {{< feature icon="lungs-virus" icon_pack="fas">}}
 </div>
-<div class="col-md-4">
+<div class="col-md-3">
     {{< feature icon="chart-pie" icon_pack="fas">}}
 </div>
-<div class="col-md-2">
+<div class="col-md-3">
 </div>
 {{< /columns >}}
 

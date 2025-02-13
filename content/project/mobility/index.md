@@ -16,6 +16,6 @@ image:
   preview_only: true
 ---
 
-Using mobility data collected from Google maps data I worked to determine how predicitive this was of contacts during the COVID-19 pandemic.
+Below are my research outputs relating to research on social mobility data and contact rates
 
 {{< button url="my_projects/" text="All Projects" style="inverse" >}}
