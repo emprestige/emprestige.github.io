@@ -11,15 +11,15 @@ subtitle = "Using publicly available mobility data to predict contacts"
 +++
 
 {{< columns >}}
-<div class="col-md-3">
+<div class="col-md-4">
 </div>
-<div class="col-md-3">
+<div class="col-md-2">
     {{< feature icon="person-walking-dashed-line-arrow-right" icon_pack="fas">}}
 </div>
-<div class="col-md-3">
+<div class="col-md-2">
     {{< feature icon="hexagon-nodes" icon_pack="fas">}}
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
 </div>
 {{< /columns >}}
 

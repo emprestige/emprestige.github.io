@@ -11,15 +11,15 @@ subtitle = "Work conducted surrounding the methods used to conduct analyses usin
 +++
 
 {{< columns >}}
-<div class="col-md-3">
+<div class="col-md-4">
 </div>
-<div class="col-md-3">
+<div class="col-md-2">
     {{< feature icon="laptop-medical" icon_pack="fas">}}
 </div>
-<div class="col-md-3">
+<div class="col-md-2">
     {{< feature icon="chalkboard-user" icon_pack="fas">}}
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
 </div>
 {{< /columns >}}
 
