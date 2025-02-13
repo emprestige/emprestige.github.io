@@ -14,7 +14,7 @@ I am currently using Electronic Health Records (EHRs) to examine and compare dis
 
 {{< columns >}}
 <div class="col-md-6">
-    {{< feature icon="viruses" icon_pack="fas" name="Respiratory Viruses" >}}
+    {{< feature icon="lungs-virus" icon_pack="fas" name="Respiratory Viruses" >}}
 </div>
 <div class="col-md-6">
     {{< feature icon="chart-pie" icon_pack="fas" name="Disparities" >}}
