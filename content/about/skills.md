@@ -27,7 +27,7 @@ subtitle = "Technical skills I hold"
   parcent = "90%"  
   
 [[feature]]
-  icon = "search"
+  icon = "lungs-virus"
   icon_pack = "fas"
   name = "Descriptive Analysis"
   parcent = "80%"
