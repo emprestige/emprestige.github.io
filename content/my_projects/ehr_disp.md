@@ -14,10 +14,10 @@ I am currently using Electronic Health Records (EHRs) to examine and compare dis
 
 {{< columns >}}
 <div class="col-md-6">
-    <i class="fas fa-lungs-virus"></i> Respiratory Viruses
+    {{< feature icon="lungs-virus" icon_pack="fas" name="Respiratory Viruses" >}}
 </div>
 <div class="col-md-6">
-    <i class="fas fa-chart-pie"></i> Disparities
+    {{< feature icon="chart-pie" icon_pack="fas" name="Disparities" >}}
 </div>
 {{< /columns >}}
 
