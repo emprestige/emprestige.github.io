@@ -21,8 +21,3 @@
 .feature .icon {
     font-size: 1.5em; /* Adjust the icon size as needed */
 }
-
-.custom-btn {
-    width: 100px !important; /* Adjust the width as needed */
-    margin: 10px !important; /* Adjust the spacing between buttons as needed */
-  }
