@@ -23,6 +23,6 @@
 }
 
 .custom-btn {
-    width: 100px; /* Adjust the width as needed */
-    margin: 10px; /* Adjust the spacing between buttons as needed */
+    width: 100px !important; /* Adjust the width as needed */
+    margin: 10px !important; /* Adjust the spacing between buttons as needed */
   }
