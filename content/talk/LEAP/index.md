@@ -48,7 +48,7 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - accessibility
+  - barriers
 
 # Enable math on this page?
 math: true

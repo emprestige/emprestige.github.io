@@ -45,6 +45,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
   - accessibility
+  - barriers
 
 # Enable math on this page?
 math: true

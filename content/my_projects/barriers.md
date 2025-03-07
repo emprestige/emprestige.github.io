@@ -3,10 +3,10 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
-title = "Accessibility in Academia"
-subtitle = "Improving accessbility in academia from an intersectional lense"
+title = "Barriers to Career Progression"
+subtitle = "Using an intersectional lense to address career barriers in academia"
 
 +++
 
@@ -14,16 +14,16 @@ subtitle = "Improving accessbility in academia from an intersectional lense"
 <div class="col-md-4">
 </div>
 <div class="col-md-2">
-    {{< feature icon="hand-holding-hand" icon_pack="fas">}}
+    {{< feature icon="road-barrier" icon_pack="fas">}}
 </div>
 <div class="col-md-2">
-    {{< feature icon="building-columns" icon_pack="fas">}}
+    {{< feature icon="handshake-angle" icon_pack="fas">}}
 </div>
 <div class="col-md-4">
 </div>
 {{< /columns >}}
 
-I have been working on a number of projects which aim to improve access in academia, as well as raise awareness of inequitable access barriers.
+I have been working on a number of projects which aim to raise awareness of inequitable access barriers and provide tools to overcome them.
 
 
 {{< button url="project/accessibility/" text="See More" style="inverse" >}}

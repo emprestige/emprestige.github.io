@@ -2,7 +2,7 @@
 title: Accessibility in Academia
 summary: Improving accessbility in academia from an intersectional lense
 tags:
-- Accessibility
+- Access
 
 date: "2025-03-06T00:00:00Z"
 
@@ -15,6 +15,6 @@ image:
   preview_only: true
 ---
 
-Below is work I have been doing to improve equitable access in academia
+Below is work I have been doing to improve equitable access in academia with a focus on disability
 
 {{< button url="my_projects/" text="All Projects" style="inverse" >}}
