@@ -2,7 +2,7 @@
 title: Codelist Construction Best Practice
 event: OpenSAFELY Community Symposium
 event_url: https://www.opensafely.org/symposium/2024/details/
-location: London, United Kingdom
+location: The Cumberland Hotel, London
 summary: A workshop on best practices in the construction of clinical codelists
 abstract: "In groups researchers worked to construct a codelist following a framework of best practices for codelist construction. This will be based around OpenCodelists. There was time at the end to review the codelists created and discuss any differences."
 

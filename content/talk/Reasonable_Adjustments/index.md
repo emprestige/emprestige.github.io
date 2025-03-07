@@ -1,7 +1,7 @@
 ---
 title: "Access to Reasonable Adjustments"
 event: September monthly meeting for the Centre for Mathematical Modelling of Infectious Diseases (CMMID)
-location: Hybrid, Keppel Street LG-81 and Online, Worldwide
+location: Hybrid, London School of Hygiene & Tropical Medicine, Keppel Street-LG81 and Online, Worldwide
 summary: How to access reasonable adjustments as an Early Career Researcher (ECR) and beyond
 abstract: "In this talk I will outline reasonable adjustments from a personal perspective, I will then speak about Student Services and then Occupational Health will detail processes for staff. The talk will close with Chris sharing his top tips and own experiences as a disabled staff member."
 
