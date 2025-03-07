@@ -31,7 +31,7 @@ subtitle = "My current and previous projects"
 
   [[content.filter_button]]
     name = "Equitable Access"
-    tag = Accessibility
+    tag = "Accessibility"
   
 
 [design]
