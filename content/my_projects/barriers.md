@@ -26,4 +26,4 @@ subtitle = "Using an intersectional lense to address career barriers in academia
 I have been working on a number of projects which aim to raise awareness of inequitable access barriers and provide tools to overcome them.
 
 
-{{< button url="project/accessibility/" text="See More" style="inverse" >}}
+{{< button url="project/barriers/" text="See More" style="inverse" >}}
