@@ -49,7 +49,7 @@
 
 [[main]]
   parent = "Know More"
-  name = "My Talks"
+  name = "My Engagement Activities"
   url = "talk/"
   weight = 4
 

@@ -18,7 +18,7 @@ weight = 20  # Order that this section will appear in.
 
 [btn_alt]
     url = "talk/"
-    label = "Recent and Upcoming Talks"
+    label = "Talks, Workshops, and Engagment"
 
 +++
 

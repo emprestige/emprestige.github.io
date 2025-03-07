@@ -1,6 +1,6 @@
 ---
 title: "Making Academia More Inclusive: Overcoming Barriers to Success"
-event: University of Plymouth Faculty of Science and Engineering International Women's Day
+event: Faculty of Science and Engineering International Women's Day
 location: University of Plymouth, Babbage LT 003
 summary: A short talk about my experience in academia as part of a wider afternoon for IWD
 abstract: "During my talk I will speak about my journey through acadmia and the barriers I have faced along the way. At each step I will expand on how I overcame these barriers, and the steps I am taking to improve access at my institution"
@@ -43,6 +43,8 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
+projects:
+  - accessibility
 
 # Enable math on this page?
 math: true
