@@ -20,7 +20,7 @@ authors:
   - Anne Suffel
   - Ruth Costello
   - Katherine Horton
-tags: []
+tags: [Accessibility]
 
 # Is this a featured talk? (true/false)
 featured: false

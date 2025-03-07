@@ -19,7 +19,7 @@ authors:
   - Chris Grundy
   - Lina Ahmed
   - Sarah Joomun
-tags: []
+tags: [Accessibility]
 
 # Is this a featured talk? (true/false)
 featured: false

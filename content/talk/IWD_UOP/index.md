@@ -16,7 +16,7 @@ publishDate: "2025-03-06T00:00:00Z"
 
 authors:
   - Em Prestige
-tags: []
+tags: [Accessibility]
 
 # Is this a featured talk? (true/false)
 featured: false

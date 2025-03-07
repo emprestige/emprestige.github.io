@@ -28,6 +28,10 @@ subtitle = "My current and previous projects"
   [[content.filter_button]]
     name = "Social Mobility Data"
     tag = "Social Mobility Data"
+
+  [[content.filter_button]]
+    name = "Equitable Access"
+    tag = Accessibility
   
 
 [design]

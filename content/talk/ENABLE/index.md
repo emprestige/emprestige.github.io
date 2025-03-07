@@ -17,7 +17,7 @@ publishDate: "2024-08-06T00:00:00Z"
 authors:
   - Em Prestige
   - Emily Nightingale
-tags: []
+tags: [Accessibility]
 
 # Is this a featured talk? (true/false)
 featured: false

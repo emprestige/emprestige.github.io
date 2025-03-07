@@ -20,7 +20,7 @@ authors:
   - Emily Granger
   - Orlagh Carroll
   - Em Prestige
-tags: []
+tags: [Accessibility]
 
 # Is this a featured talk? (true/false)
 featured: false

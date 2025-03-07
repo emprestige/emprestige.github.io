@@ -18,7 +18,7 @@ authors:
   - Em Prestige
   - Yang Liu
   - Emily Nightingale
-tags: []
+tags: [Accessibility]
 
 # Is this a featured talk? (true/false)
 featured: false
