@@ -43,7 +43,7 @@ featured: true
 
 links:
 - name: Pre-Print
-  url: "https://www.medrxiv.org/content/10.1101/2023.12.19.23300209v3"
+  url: "https://www.medrxiv.org/content/10.1101/2023.12.19.23300209v4"
 url_code: "https://github.com/cmmid/comix_mobility"
 
 # Featured image
