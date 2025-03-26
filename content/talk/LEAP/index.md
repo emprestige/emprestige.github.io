@@ -33,14 +33,13 @@ featured: false
 #url_code: ""
 #url_pdf: ""
 #url_video: ""
+slides_url: "https://drive.google.com/file/d/1R6WZP3-5XtmYsa4zPHicT5tKfLtVH6q9/view?usp=sharing"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 
-    "slides.pdf"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
