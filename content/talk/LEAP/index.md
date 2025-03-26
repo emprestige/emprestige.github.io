@@ -33,7 +33,7 @@ featured: false
 #url_code: ""
 #url_pdf: ""
 #url_video: ""
-slides_url: "https://drive.google.com/file/d/1R6WZP3-5XtmYsa4zPHicT5tKfLtVH6q9/view?usp=sharing"
+url_slides: "https://drive.google.com/file/d/1R6WZP3-5XtmYsa4zPHicT5tKfLtVH6q9/view?usp=sharing"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
