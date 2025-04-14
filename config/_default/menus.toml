@@ -29,11 +29,11 @@
   hasChildren = true
   weight = 50
 
-#[[main]]
-#  parent = "Know More"
-#  name = "About Me"
-#  url = "about/"
-#  weight = 1
+[[main]]
+  parent = "Know More"
+  name = "About Me"
+  url = "about/"
+  weight = 1
 
 [[main]]
   parent = "Know More"
