@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Em Prestige
-avatar_image: "user-full.jpg"
+avatar_image: "new-pic-full.jpg"
 # Username (this should match the folder name)
 authors:
 - admin
