@@ -42,8 +42,6 @@ tags:
 featured: true
 
 links:
-- name: Article
-  url: "https://doi.org/10.1016/j.epidem.2025.100830"
 url_code: "https://github.com/cmmid/comix_mobility"
 
 # Featured image
