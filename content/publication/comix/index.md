@@ -8,8 +8,8 @@ authors:
 - W. John Edmunds
 - Christopher I. Jarvis
 
-date: "2024-09-30T00:00:00Z"
-#doi: "pre-print"
+date: "2025-04-24T00:00:00Z"
+doi: "https://doi.org/10.1016/j.epidem.2025.100830"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-12-27T00:00:00Z"
@@ -18,10 +18,10 @@ publishDate: "2024-12-27T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: In *The Lancet Public Health*
+publication: In *Epidemics*
 # publication_short: In *Lancet Public Health*
 
 abstract: |
@@ -42,8 +42,7 @@ tags:
 featured: true
 
 links:
-- name: Pre-Print
-  url: "https://www.medrxiv.org/content/10.1101/2023.12.19.23300209v4"
+  url: "https://doi.org/10.1016/j.epidem.2025.100830"
 url_code: "https://github.com/cmmid/comix_mobility"
 
 # Featured image
