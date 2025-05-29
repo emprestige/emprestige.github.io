@@ -33,6 +33,8 @@ interests:
 - Electronic Health Records
 - Vaccine Uptake
 - Open-Science
+- Accessibility Within Academia
+- Science Communication
 
 education:
   courses:
@@ -82,4 +84,4 @@ user_groups:
 - Visitors
 ---
 
-Thanks for taking the time to find out more! Below are a number of my research interests, alongside my research I am interested in adovacy for disabled staff and students, networking for minority groups within academia and student representation.
+Thanks for taking the time to find out more! On this page you can find information on my background, technical skills, and interests - both research-related and beyond. Alongside my research I am passionate about adovacy for disabled staff and students, networking for minority groups within academia and student representation - please [get in touch](#contact) if that is something you'd like to chat about!
