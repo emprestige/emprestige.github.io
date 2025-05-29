@@ -33,7 +33,7 @@ interests:
 - Electronic Health Records
 - Vaccine Uptake
 - Open-Science
-- Accessibility Within Academia
+- Accessibility in Academia
 - Science Communication
 
 education:
@@ -84,4 +84,4 @@ user_groups:
 - Visitors
 ---
 
-Thanks for taking the time to find out more! On this page you can find information on my background, technical skills, and interests - both research-related and beyond. Alongside my research I am passionate about adovacy for disabled staff and students, networking for minority groups within academia and student representation - please [get in touch](#contact) if that is something you'd like to chat about!
+Thanks for taking the time to find out more! On this page you can find information on my background, technical skills, and interests - both research-related and beyond. Alongside my research I am passionate about adovacy for disabled staff and students, networking for minority groups within academia and student representation - please [get in touch](https://emprestige.github.io/#contact) if that is something you'd like to chat about!
