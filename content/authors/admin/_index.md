@@ -33,7 +33,7 @@ interests:
 - Electronic Health Records
 - Vaccine Uptake
 - Open-Science
-- Accessibility Within Academia
+- Accessibility in Academia
 - Science Communication
 
 education:
