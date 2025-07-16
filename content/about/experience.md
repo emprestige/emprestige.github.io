@@ -18,21 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Data Scientist"
+  company = "Bennett Institute for Applied Data Science"
+  company_url = "https://www.bennett.ox.ac.uk/"
+  location = "Oxford"
+  date_start = "2025-07-01"
+  date_end = ""
+  description = "Part-time secondment to work with OpenSAFELY team"
+
+[[experience]]
   title = "Research Fellow"
   company = "London School of Hygiene & Tropical Medicine"
-  company_url = ""
+  company_url = "https://www.lshtm.ac.uk/"
   location = "London"
   date_start = "2023-10-01"
   date_end = ""
-  description = ""
+  description = "Undertaking NIHR Doctoral Fellowship"
 
 [[experience]]
   title = "Research Assistant"
   company = "London School of Hygiene & Tropical Medicine"
-  company_url = ""
+  company_url = "https://www.lshtm.ac.uk/"
   location = "London"
   date_start = "2021-09-01"
   date_end = "2023-09-15"
-  description = ""
+  description = "Completion of NIHR Pre-Doctoral Fellowship"
   
 +++
