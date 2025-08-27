@@ -1,7 +1,7 @@
 ---
 title: Inequalities in Impact of Respiratory Viruses
 event: ISCB 46
-event_url: https://www.opensafely.org/symposium/2024/details/
+event_url: https://iscb2025.info/
 location: Basel, Switzerland
 summary: A poster presentation of work, created for the international society of clinical biostatistics (ISCB)
 abstract: "Development of Respiratory Virus Phenotypes in EHRs from England Using OpenSAFELY"
