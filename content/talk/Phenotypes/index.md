@@ -38,7 +38,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #url_code: ""
-url_pdf: "talk/Phenotypes/ISCB Poster 2025.pdf"
+url_pdf: "talk/Phenotypes/ISCB_Poster_2025.pdf"
 #url_slides: ""
 #url_video: ""
 
