@@ -2,7 +2,7 @@
 title: "Making Academia More Inclusive: Overcoming Barriers to Success"
 event: Faculty of Science and Engineering International Women's Day
 location: University of Plymouth, Babbage LT 003
-summary: A short talk about my experience in academia as part of a wider afternoon for IWD
+summary: A short talk about my experience in academia as part of a wider afternoon for international women's day
 abstract: "During my talk I will speak about my journey through acadmia and the barriers I have faced along the way. At each step I will expand on how I overcame these barriers, and the steps I am taking to improve access at my institution"
 
 # Talk start and end times.
@@ -36,7 +36,7 @@ url_slides: https://docs.google.com/presentation/d/1I49jEXh82nyCdjDXn_ZT1BZ5b8_P
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 
+slides:
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -50,4 +50,3 @@ projects:
 # Enable math on this page?
 math: true
 ---
-
