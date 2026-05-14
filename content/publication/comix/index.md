@@ -39,7 +39,7 @@ tags:
 - Social Contact Rates
 - Modelling
 - Prediction Methods
-featured: false
+featured: true
 
 links:
 url_code: "https://github.com/cmmid/comix_mobility"
